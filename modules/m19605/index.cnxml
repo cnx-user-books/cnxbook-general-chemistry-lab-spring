@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Determine the Value of an Equilibrium Constant by Complex Ion Formation</title>
+  <metadata>
+  <md:content-id>m19605</md:content-id><md:title>Determine the Value of an Equilibrium Constant by Complex Ion Formation</md:title>
+  <md:abstract>Determine the Value of an Equilibrium Constant by Complex Ion Formation by reacting Fe(III) with the thiocyanate ion</md:abstract>
+  <md:uuid>59ef77cc-80aa-49b8-a944-34842b7d3cc3</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m19605/latest/Report.doc" strength="3">Report</link>
+      <link url="http://cnx.org/content/m19605/latest/PreLab.doc" strength="3">PreLab</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id3129724">Determine the Value of an Equilibrium Constant by Complex Ion Formation</para>
+    <section id="id14961742">
+      <title>Objectives</title>
+      <para id="id12639911">In this laboratory you will: </para>
+      <list id="id13088717" list-type="bulleted">
+        <item>Use MicroLab to take colorimetric measurements</item>
+        <item>Use Beer’s Law to measure the equilibrium concentration of a complex ion</item>
+        <item>Review Le Chatelier’s Principle</item>
+        <item>Calculate the equilibrium constant for the formation of a complex ion</item>
+      </list>
+    </section>
+    <section id="id12249820">
+      <title> Grading</title>
+      <para id="id13049294">Your grade will consist of the following:</para>
+      <list id="id14367281" list-type="bulleted">
+        <item>Pre-lab (10%)</item>
+        <item>Correctness and thoroughness of your observations and the answers to the questions on the report form (80%)</item>
+        <item>TA evaluation of lab procedure (10%)</item>
+      </list>
+      <para id="id14690514">Before Coming to Lab . . .</para>
+      <list id="id10125892" list-type="bulleted">
+        <item>Complete the pre-lab exercise</item>
+        <item>Read the introduction and any related materials provided to you</item>
+      </list>
+      <para id="id10810333">Introduction</para>
+      <para id="id12236681">When two reactants are mixed, the reaction typically does not go to completion. Rather, they will react to form products until a state is reached whereby the concentrations of the reactants and products remain constant at which point the rate of formation of the products is equal to the rate of formation of the reactants. The reactants and products are then in chemical equilibrium and will remain so until affected by some external force. The equilibrium constant 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math> for the reaction relates the concentration of the reactants and products. </para>
+      <para id="id12397863">In our experiment we will study the equilibrium properties of the reaction between iron (III) ion and thiocyanate ion:</para>
+      <para id="id12629358"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>aq</m:mtext></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>aq</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>aq</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} }  \(  ital "aq" \) + ital "SCN" rSup { size 8{ - {}} }  \(  ital "aq" \)  rightarrow  ital "FeSCN" rSup { size 8{2+{}} }  \(  ital "aq" \) } {}</m:annotation></m:semantics></m:math>  Equation 1</para>
+      <para id="id3125134">When solutions containing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> ion and thiocyanate ion are mixed, the deep red thiocyanatoiron (III) ion (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math>) is formed. As a result of the reaction, the starting concentrations of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "SCN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> will decrease: so for every mole of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> that is formed, one mole of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> and one mole of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "SCN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> will react. The equilibrium constant expression
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math>, according to the Law of Chemical Equilibrium, for this reaction is formulated as follows:</para>
+      <para id="id15548502"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">/</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">=</m:mo><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "FeSCN" rSup { size 8{2+{}} }  \] / \[  ital "Fe" rSup { size 8{3+{}} }  \]  \[  ital "SCN" rSup { size 8{ - {}} }  \] =K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math>   Equation 2</para>
+      <para id="id15496237">Remember, square brackets ([]) are used to indicate concentration in mol/liter, <emphasis effect="italics">i.e.</emphasis>, molarity (M).</para>
+      <para id="id15496249">The value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math> is constant at a given temperature. This means that mixtures containing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "SCN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> will react until the above equation is satisfied, so that the same value of the K<sub>c</sub> will be obtained no matter what initial amounts of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "SCN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> were used. Our purpose in this experiment will be to find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math> for this reaction for several mixtures made up in different ways, and to show that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math> indeed has the same value in each of the mixtures.</para>
+      <para id="id15542761">The reaction is a particularly good one to study because 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math> is of a convenient magnitude and the red color of the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> ion makes for an easy analysis of the equilibrium mixture using a spectrophotometer. The amount of light absorbed by the red complex is measured at 447 nm, the wavelength at which the complex most strongly absorbs. The absorbance, A, of the complex is proportional to its concentration, M, and can be measured directly on the spectrophotometer:</para>
+      <para id="id15549459">A = kM   Equation 3</para>
+      <para id="id15549468">We know it as the Beer-Lambert law which relates the amount of light being absorbed to the concentration of the substance absorbing the light and the pathlength through which the light passes: </para>
+      <para id="id15549475">A = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ε</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation></m:semantics></m:math>bc   Equation 4</para>
+      <para id="id15549537">In this equation, the measured absorbance (A) is related to the molar absorptivity constant (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ε</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation></m:semantics></m:math>), the path length (b), and the molar concentration (c) of the absorbing species. The concentration is directly proportional to absorbance.</para>
+      <para id="id15544795">Thiocyanate (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "SCN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>) is an interesting ion and is widely used in a variety of industrial processes such as the manufacturing of thiourea, photofinishing, metal separation, and electroplating. It is also found in gold mining wastewater as a result of treating the cyanide rich ore with sulfur dioxide in order to produce the less toxic thiocyanate(
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>SCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "SCN" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>) ion. Iron, as you will see later on in the semester, has the unique ability to inexpensively clean up and produce drinking quality water in Third World countries.</para>
+    </section>
+    <section id="id15544945">
+      <title> Procedure</title>
+      <para id="para-id15544945">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15544953">
+      <title>Equipment</title>
+      <list id="id15544960" list-type="bulleted">
+        <item>5 test tubes</item>
+        <item>Burette (0.1 ml graduations) filled with 0.0200M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></item>
+        <item>Neighboring partners’ burette filled with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "00" times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> M KSCN</item>
+        <item>stirring rod</item>
+        <item>small labels or china clay pencil</item>
+        <item>5 cuvettes for the spectrophotometers</item>
+        <item> 250 ml bottle acetone for rinsing</item>
+      </list>
+    </section>
+    <section id="id15465293">
+      <title>Hazard: As always wear Safety glasses while performing this experiment</title>
+      <para id="id15465301"><emphasis effect="bold">Contamination Notes: If your flask is wet before you prepare your standard/sample solutions ensure that the flask is wet with dilutant (in this case it is </emphasis><emphasis effect="bold">0.5 M</emphasis> HNO<sub>3</sub><emphasis effect="bold">)</emphasis>.</para>
+      <para id="id15465333">
+        <emphasis effect="bold">Calibration Of MicroLab/Spectrophotometer</emphasis>
+      </para>
+      <para id="id15465341">N.B. Do not use test tubes from your drawer!</para>
+      <para id="id15465348">Find and open the MicroLab program.</para>
+      <list id="id15465352" list-type="enumerated" number-style="arabic">
+        <item>Find and open the MicroLab program. This brings up a box that will enable you to select from a list of experiments. Select colorimeter. Check that the accompanying box has power and is turned on, and that it is connected to the laptop via the USB plug.</item>
+        <item>In the tab labeled “New” you will find the icon for the “Spectrophotometer”, please double click this. Make sure that you click on the absorbance tab.</item>
+        <item>This brings up the program, at which point you should take a reading of a blank, this is done by filling a vial with 15 mL of 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math><sub/>(not deionized water in this case) and placing in the appropriate slot. Covering with the film case to exclude ambient light from entering the system. When the blank sample is in place, click the button “Read Blank”. This will generate a series of data points.</item>
+        <item>A solution of 0.0200M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math><sub/>has been prepared for you.</item>
+        <item>Dilute 1.5, 3.0, 4.5 and 6.0 mL portions of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "00" times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> M KSCN to 20 mL with the 0.0200M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>. For this you can use some of the smaller beakers in your lab drawer. These need to be rinsed and dried thoroughly before each use. Use two clean, dry burettes to dispense the two solutions.</item>
+        <item>This will give you 4 solutions which can be assumed to be 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." 0 times "10" rSup { size 8{ - 5} } } {}</m:annotation></m:semantics></m:math>M, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." 2 times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> M,<sup/><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." 8 times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> M and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." 4 times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> M in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math></item>
+        <item>Take the most concentrated solution and collect a visible spectrum from 400 to 800 nm to determine 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math><sub>. </sub></item>
+        <item>Measure the absorbance of all the solutions at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math>, using 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> as the blank/reference solution.</item>
+        <item>Measure the absorbance of these solutions again at 430nm, under the same conditions.</item>
+        <item>Plot absorbance vs. [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math>] for both wavelengths using Excel and add a linear trendline passing through the origin (under Options, set intercept equal to 0). Using Beer’s law and the equation of the trendline, find the molar absortivity. </item>
+      </list>
+    </section>
+    <section id="id15547519">
+      <title>Experimental Determination of Kc</title>
+      <para id="id15547530">The mixtures will be prepared by mixing solutions containing known concentrations of iron (III) nitrate,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, and potassium thiocyanate, KSCN. The color of the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> ion formed will allow us to determine its equilibrium concentration. Knowing the initial composition of a mixture and the equilibrium concentration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math>, we can calculate the equlibrium concentrations of the rest of the pertinent species and then determine 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <list id="id11672356" list-type="enumerated" number-style="arabic">
+        <item>Label five regular test tubes 1 to 5, with labels or by noting their positions in the test tube rack.</item>
+        <item>Dilute 0.02 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>by a factor of 10 using the volumetric flask that you have in your drawer. Remember to do the dilution with 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> not water.</item>
+        <item id="id11672570">Pour about 25 mL 0.002 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> into a clean, dry burette.</item>
+        <item>Dispense 5.00 mL of that solution into each test tube.</item>
+        <item>Then pour about 20 mL 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "00" times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> M KSCN into another clean, dry burette.</item>
+        <item>Dispense 1,2,3,4, and 5 mL from the KSCN burette into each of the corresponding test tubes labeled 1 to 5.</item>
+        <item>Using a small graduated cylinder, dispense the proper number of milliliters of 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> into each test tube to bring the total volume in each tube to 10.00 mL.</item>
+        <item>The volumes of reagents to be added to each tube are summarized in the table.</item>
+      </list>
+      <table id="id15537554" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>TestTube #</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3 </entry>
+              <entry>4</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>Reagents (mL)</entry>
+              <entry>1 </entry>
+              <entry>2 </entry>
+              <entry>3 </entry>
+              <entry>4 </entry>
+              <entry>5 </entry>
+            </row>
+            <row>
+              <entry>Fe(NO<sub>3</sub>)<sub>3</sub></entry>
+              <entry>5.00 </entry>
+              <entry>5.00 </entry>
+              <entry>5.00 </entry>
+              <entry>5.00 </entry>
+              <entry>5.00 </entry>
+            </row>
+            <row>
+              <entry>KSCN</entry>
+              <entry>1.00 </entry>
+              <entry>2.00 </entry>
+              <entry>3.00 </entry>
+              <entry>4.00 </entry>
+              <entry>5.00 </entry>
+            </row>
+            <row>
+              <entry>0.5 M HNO<sub>3</sub></entry>
+              <entry>4.00 </entry>
+              <entry>3.00 </entry>
+              <entry>2.00 </entry>
+              <entry>1.00 </entry>
+              <entry>0.00 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id15537912" list-type="enumerated" number-style="arabic">
+        <item>Mix each solution <emphasis effect="bold">thoroughly</emphasis> with a glass stirring rod. Be sure to <emphasis effect="bold">dry</emphasis> the stirring rod after mixing each solution to prevent cross-contamination.</item>
+        <item>Place the mixture in tube 1 in a spectrophotometer cell and measure the absorbance of the solution at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math>.</item>
+        <item>Determine the concentration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>FeSCN</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeSCN" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> from your calibration curve. Record the value on your Report form. Repeat the measurement using the mixtures in each of the other test tubes.</item>
+      </list>
+    </section>
+  </content>
+</document>

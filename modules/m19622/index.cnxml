@@ -1,0 +1,1350 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>indigestion?  Which is the Best Commercial Antacid?</title>
+  <metadata>
+  <md:content-id>m19622</md:content-id><md:title>indigestion?  Which is the Best Commercial Antacid?</md:title>
+  <md:abstract>Anallysis of antacids to find out which is the best commercial antacid</md:abstract>
+  <md:uuid>a1296da2-39ab-4d96-85c7-b6824dd09c3c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m19622/latest/Report.doc" strength="3">Report</link>
+      <link url="http://cnx.org/content/m19622/latest/PreLab.doc" strength="3">PreLab</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id46005904">
+      <title>Indigestion? Which is the best Commercial Antacid?</title>
+      <section id="id46005912">
+        <title>Objectives</title>
+        <list id="id46005920" list-type="bulleted">
+          <item>Measure the quantity of commercial antacid required to neutralize a simulated stomach acid (0.15 M hydrochloric acid) and then compare the effectiveness of several brands of antacids in neutralizing acids.</item>
+          <item>Learn and practice the back-titration method.</item>
+        </list>
+      </section>
+      <section id="id46005939">
+        <title>Grading</title>
+        <para id="id46005946">You grade will be determined according to the following:</para>
+        <list id="id46005952" list-type="bulleted">
+          <item>Pre-lab (10%)</item>
+          <item>Lab Report Form (80%)</item>
+          <item>TA points (10%)</item>
+        </list>
+      </section>
+      <section id="id46005973">
+        <title>Introduction</title>
+        <para id="id46005980">The parietal cells in the stomach secrete hydrochloric acid at a quite high concentration of about 0.155 M. The flow of HCl increases when food enters the stomach. When you eat or drink too much, your digestive system may generate too much acid. You may develop a condition called "heartburn" or indigestion. Antacids are swallowed to neutralize this excess acid and "relieve" but not eliminate the condition. The reaction that takes place is an acid/base reaction. A small amount of NaOH might be as effective, although rough on the rest of the digestive system, so antacids have been formulated to reduce acidity while avoiding physiological side-effects. Many antacids use 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> for this purpose.</para>
+        <para id="id45476489">In addition to the active ingredient (base), tablets may also contain flavors, sweeteners, binders, fillers, antifoam agents, pain relievers (aspirin), etc. In this experiment, the tablets will be analyzed only for their ability to neutralize acids. The base in antacids varies with the brand. Below is an example of active agents in several brands.</para>
+        <table id="id45476499" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry> <emphasis effect="bold">Brand Active Agent</emphasis></entry>
+                <entry>Base</entry>
+              </row>
+              <row>
+                <entry>Pepto-Bismol</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>BiO</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mtext>HOC</m:mtext>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>6</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:msub>
+                                <m:mi>H</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>4</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>COO</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">)</m:mo>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ ital "BiO" \(  ital "HOC" rSub { size 8{6} } H rSub { size 8{4} }  ital "COO" \) } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>Milk of Magnesia</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Mg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>OH</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ ital "Mg" \(  ital "OH" \)  rSub { size 8{2} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>Rolaids</entry>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NaAl</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaAl" \(  ital "OH" \)  rSub { size 8{2} }  ital "CO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math><sub/>(newer tablets: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>)</entry>
+              </row>
+              <row>
+                <entry>Tums</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mtext>CaCO</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>3</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCO" rSub { size 8{3} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>Alka-Seltzer II </entry>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math><sub/>and
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>KHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></entry>
+              </row>
+              <row>
+                <entry>Maalox</entry>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Mg</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Mg" \(  ital "OH" \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Al</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Al" \(  ital "OH" \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></entry>
+              </row>
+              <row>
+                <entry>Gaviscon </entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Al</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>OH</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:msub>
+                                <m:mo stretchy="false">)</m:mo>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ ital "Al" \(  ital "OH" \)  rSub { size 8{3} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id45139973"> Acids are neutralized by these bases as illustrated below.</para>
+        <equation id="id45139979">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>BiO</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>HOC</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>COO</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mn>3H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>Bi</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>HOC</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>COOH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>s</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "BiO" \(  ital "HOC" rSub { size 8{6} } H rSub { size 8{4} }  ital "COO" \) +3H rSup { size 8{+{}} }  \(  ital "aq" \)  rightarrow  ital "Bi" rSup { size 8{3+{}} }  \(  ital "aq" \) +H rSub { size 8{2} } O \( l \) + ital "HOC" rSub { size 8{6} } H rSub { size 8{4} }  ital "COOH" \( s \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id45140229">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Mg</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mn>2H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>Mg</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mn>2H</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "Mg" \(  ital "OH" \)  rSub { size 8{2} }  \( s \) +2H rSup { size 8{+{}} }  \(  ital "aq" \)  rightarrow  ital "Mg" rSup { size 8{2+{}} }  \(  ital "aq" \) +2H rSub { size 8{2} } O \( l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id45140424">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Al</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Al</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msubsup>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msubsup>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "Al" \(  ital "OH" \)  rSub { size 8{3} }  \( s \) +H rSup { size 8{+{}} }  \(  ital "aq" \)  rightarrow  ital "Al" \(  ital "OH" \)  rSub { size 8{2} }  rSup { size 8{+{}} }  \(  ital "aq" \) +H rSub { size 8{2} } O \( l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id44987154">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Al</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msubsup>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msubsup>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Al</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>OH</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msubsup>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msubsup>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "Al" \(  ital "OH" \)  rSub { size 8{2} }  rSup { size 8{+{}} }  \(  ital "aq" \) +H rSup { size 8{+{}} }  \(  ital "aq" \)  rightarrow  ital "Al" \(  ital "OH" \)  rSub { size 8{2} }  rSup { size 8{+{}} }  \(  ital "aq" \) +H rSub { size 8{2} } O \( l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id44987383">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CaCO</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>Ca</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mtext>HCO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCO" rSub { size 8{3} }  \( s \) +H rSup { size 8{+{}} }  \(  ital "aq" \)  rightarrow  ital "Ca" rSup { size 8{2+{}} }  \(  ital "aq" \) + ital "HCO" rSub { size 8{3} }  rSup { size 8{ - {}} }  \(  ital "aq" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id44987582">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msubsup>
+                            <m:mtext>HCO</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>aq</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CO</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "HCO" rSub { size 8{3} }  rSup { size 8{ - {}} }  \(  ital "aq" \) +H rSup { size 8{+{}} }  \(  ital "aq" \)  rightarrow  ital "CO" rSub { size 8{2} }  \( g \) +H rSub { size 8{2} } O \( l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id44987766">In this simple experiment you will find the neutralizing capacity of various commercial antacid tablets. To test their capacity to neutralize acid, we will first dissolve an appropriate and measured amount of the sample in a simulated stomach environment. This is a solution containing a known quantity of HCl that will react with all of the antacid and still leave some extra HCl. Then we will determine how much of the original HCl remains by titrating it to neutrality with a standardized solution of NaOH. Simple subtraction will reveal how much of the acid was neutralized by the antacid tablet. This general method of analysis is called back-titration.</para>
+        <para id="id44987781">
+          <emphasis effect="bold">Note: The standardized solutions of NaOH and HCl have been prepared for you. However you need to understand how and why it is done this way. (See Supporting Information on this) Also see notes on Titration Tips.</emphasis>
+        </para>
+        <para id="id44987792">If 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>A</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{A} } } {}</m:annotation></m:semantics></m:math> is the total number of moles of HCl, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>B</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{B} } } {}</m:annotation></m:semantics></m:math> is the number of moles of NaOH needed to back-titrate the excess HCl, then, N<sub>sample </sub>is the number of moles neutralized by the sample:</para>
+        <equation id="id44987904">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>sample</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>A</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>B</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{ ital "sample"} } =N rSub { size 8{A} }  - N rSub { size 8{B} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id44987995">Remember that the number of moles in a volume of solution equals the concentration multiplied by the volume. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>M</m:mi><m:mo stretchy="false">×</m:mo><m:mi>V</m:mi></m:mrow></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( n=M times V \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id44988069">Dissolved carbon dioxide is converted into the weak acid, carbonic acid 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( H rSub { size 8{2} }  ital "CO" rSub { size 8{3} }  \) } {}</m:annotation></m:semantics></m:math> which reacts with NaOH. Although the deionized water is free of most impurities, it does contain dissolved carbon dioxide that must be removed by boiling to give accurate titration results. All of the antacids that you titrate contain carbonates. When you acidify the antacid sample with standard HCl, the carbonates are converted into carbonic acid that must be boiled off in the form of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CO" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id44988215">In this experiment you will titrate one commercial antacid twice. Each lab section will compile their results and decide which antacid is the "best buy" in terms of neutralizing ability per dollar. The general approach to this quantitative determination is volumetric.</para>
+        <para id="id44988224">Experimental Procedure</para>
+        <section id="id44988228">
+          <title>Titration of Antacids</title>
+          <para id="id44988235">Your TA will randomly assign you one of the commercial brands of antacid tablets which you will analyze twice.</para>
+          <para id="id44988241">1. Weigh one whole tablet using the analytical balance. Record the mass of the intact tablet. </para>
+          <para id="id44988247">2. Break or cut the tablet to obtain pieces roughly the size indicated in the table below (e.g.. ½, ⅓, etc.) and weigh two of these pieces separately on sheets of weighing paper. (Don't forget to subtract or tare the weight of the paper.) After weighing, fold over the paper and gently crush the sample fragments using the round portion of your padlock, so it dissolves faster.</para>
+          <para id="id44988265">3. Use the burettes around the periphery of the lab to dispense 25.00 mL of standardized HCl into a clean 125 mL Erlenmeyer flask and add about 20 mL of deionized water. This solution will be used to dissolve the fraction you weighed of the antacid tablet.</para>
+          <para id="id44988274">4. Transfer one of the weighted crushed samples (without any spilling) into the flask containing the HCl solution. Repeat for the other weighed fraction in another flask and label each flask (1 and 2) to keep track of which sample and which portion is being titrated.</para>
+          <para id="id44988283">5. Warm gently to dissolve the sample and then boil solution for about a minute. Some components of the samples may remain undissolved, but these will not cause problems.</para>
+          <para id="id44988291">6. Let the flask cool down sitting on the bench for couple minutes, and then cool the outside of the flask with tap water. </para>
+          <para id="id44988298">7. When room temperature is reached add a few drops of methyl purple indicator solution. The flask should now be purple in color. (If it is green instead of purple, you have used too large a fragment and have neutralized all of the HCl. (In this case add 5mL of HCl and observe the color change. If needed add measured amounts of HCl little by little until solution is purple. Remember to record the amount of HCl added and add to the first 25mL of HCl.)</para>
+          <para id="id44988310">8. It is important that you read Titration Tips in Supporting Information below before you titrate, or you may have to repeat titration several times.) </para>
+          <para id="id44988317">9. Titrate with your standardized NaOH solution until you reach the endpoint, a change in color from purple to green. Some samples may not give color changes as sharp as for the HCl standardizations; for these use your best judgment to estimate the endpoint. Endpoints will generally be sharper for quick titrations than for slow ones.</para>
+          <para id="id44988328">10. Repeat the above procedure with a new sample of the same antacid. Enter your <emphasis effect="bold">data in a wiki </emphasis>in the designated laptop, check the web page later on the week and make a final comment on the overall cost to neutralize one mole of HCl for various brands. Use the data from your lab section (i.e. all of Tuesday afternoon, Monday night, etc.).THIS IS PART OF YOUR REPORT AND IF DATA IS NOT FOUND ON THE WEB YOU SHOULD CONTACT YOUR TA. (No excuses)</para>
+        </section>
+        <section id="id44988346">
+          <title>Retail Cost Maximum</title>
+          <table id="id44988353" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry> <emphasis effect="bold">Label</emphasis></entry>
+                  <entry>Antacid Brand</entry>
+                  <entry>Price (cents per tablet)</entry>
+                  <entry>Fraction</entry>
+                </row>
+                <row>
+                  <entry>B</entry>
+                  <entry>Walgreens Antacid Tablets</entry>
+                  <entry>
+                    <emphasis effect="bold">2.66</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">1/6</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>C</entry>
+                  <entry>Titralac Plus</entry>
+                  <entry>5.99</entry>
+                  <entry>
+                    <emphasis effect="bold">1/4</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>E</entry>
+                  <entry>Rolaids</entry>
+                  <entry>
+                    <emphasis effect="bold">2.69</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">1/4</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>J</entry>
+                  <entry>
+                    <emphasis effect="bold">Tums Regular</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">2.86</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">1/6</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>K</entry>
+                  <entry>Tums Plus</entry>
+                  <entry>5.32</entry>
+                  <entry>
+                    <emphasis effect="bold">1/6</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>M</entry>
+                  <entry>Eckerd Antacid</entry>
+                  <entry>2.19</entry>
+                  <entry>
+                    <emphasis effect="bold">1/6</emphasis>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id44989104">
+            <emphasis effect="bold"> *Active ingredient in all of these antacids is </emphasis>
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CaCO</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCO" rSub { size 8{3} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+            <emphasis effect="bold">.</emphasis>
+          </para>
+        </section>
+        <section id="id44989173">
+          <title>Supporting Information on Standardization:</title>
+          <para id="id44989180">Molarity is the most commonly used concentration term when one is interested in the amount of materials involved in a chemical reaction in solution. Molarity (M) is defined as the number of moles of solute per liter of solution.</para>
+          <para id="id44989188">M = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>moles</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>solute</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Liters</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>solution</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {# ital "moles" \(  ital "solute" \) }  over  { ital "Liters" \(  ital "solution" \) } } } {}</m:annotation></m:semantics></m:math> (1)</para>
+          <para id="id44989296">The number of moles is calculated by dividing the mass of the sample in grams by the gram formula weight (GFW or molar mass). One GFW is the same as one mole.</para>
+          <para id="id44989303">Number moles = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>grams</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>solute</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>GFW</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "grams" \(  ital "solute" \) }  over  { ital "GFW"} } } {}</m:annotation></m:semantics></m:math> (2)</para>
+          <para id="id44989390">For example in a 0.150 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> solution, there are 0.150 moles of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HNO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in one liter of this solution. The following factors may then be used in chemical calculations: </para>
+          <para id="id44989527"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>150</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>molHNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>1L</m:mn><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>solution</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0 "." "150" ital "molHNO" rSub { size 8{3} } }  over  {1L \(  ital "solution" \) } } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1L</m:mn><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>solution</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>150</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>molHNO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1L \(  ital "solution" \) }  over  {0 "." "150" ital "molHNO" rSub { size 8{3} } } } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id44989710">In a chemical reaction that takes place in solution, the volume and the molarity of one reactant and the molarity of the second reactant can be used, together with the stoichiometry of the equation, to find the volume of the second reactant needed to react completely with the first reactant.</para>
+          <para id="id44989723">Titration is a process in which a solution of one reagent, usually the base, is added to an accurately measured volume of another solution, usually the acid, until the reaction is complete. The concentration of one of the reagents is known. From the known concentration and the measured volumes, the concentration of the second solution can be calculated.</para>
+          <para id="id44989733">In acid-base reactions the end of the reaction or equivalence point is detected by adding a compound that undergoes a color change as it changes from its acid form to its basic form. This compound is called an indicator. An indicator is an organic dye that changes color at a characteristic 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> ion concentration. A dye can be an indicator if it has an intense color that changes when it gains or loses 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> ions.</para>
+          <para id="id44989874"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>HIn</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">→</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>In</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HIn"+ ital "OH" rSup { size 8{ - {}} }  rightarrow  ital "In" rSup { size 8{ - {}} } +H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> (3)</para>
+          <para id="id44990004">The change of an indicator dye from <emphasis effect="bold">Color A</emphasis> to <emphasis effect="bold">Color B</emphasis> depends upon the concentration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> (or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>) ions. Care must be taken in selecting an indicator to be sure that the color change (endpoint) occurs at the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> ion concentration that corresponds to the equivalence point. Phenolphthalein, methyl red, methyl orange, and litmus are examples of indicators.</para>
+          <para id="id44990224">A <emphasis effect="bold">primary standard</emphasis> is usually a solid reactant that: </para>
+          <para id="id44990241">(1) is available in a high purity form </para>
+          <para id="id44990246">(2) does not change chemically when stored or exposed to air</para>
+          <para id="id44990251">(3) has a high formula weight to minimize errors in weighing</para>
+          <para id="id44990256">(4) is soluble in the solvent being used. </para>
+          <para id="id44990261">Sodium carbonate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Na" rSub { size 8{2} }  ital "CO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>, is commonly used as a primary standard base for standardizing acids, while potassium acid phthalate (KHP), 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>KHC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KHC" rSub { size 8{8} } H rSub { size 8{4} } O rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, and oxalic acid dihydrate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msub><m:mn>2H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } C rSub { size 8{2} } O rSub { size 8{4} }  cdot 2H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, are primary standard acids used for standardizing bases.</para>
+          <para id="id44990546"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>HCl</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NaCl</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Na" rSub { size 8{2} }  ital "CO" rSub { size 8{3} }  \( s \) +2 ital "HCl" rightarrow H rSub { size 8{2} } O+ ital "CO" rSub { size 8{2} } +2 ital "NaCl"} {}</m:annotation></m:semantics></m:math><emphasis effect="bold"/>(4) </para>
+          <para id="id44992780"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>KHC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NaOH</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">→</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>KNaC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KHC" rSub { size 8{8} } H rSub { size 8{4} } O rSub { size 8{4} }  \( s \) + ital "NaOH" rightarrow  ital "KNaC" rSub { size 8{8} } H rSub { size 8{4} } O rSub { size 8{4} } +H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math><emphasis effect="bold"/>(5)</para>
+          <para id="id44992951"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COOH</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msub><m:mn>2H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NaOH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">→</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>COO</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>4H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "COOH" \)  rSub { size 8{2} }  cdot 2H rSub { size 8{2} } O \( s \) +2 ital "NaOH" rightarrow  ital "Na" rSub { size 8{2} }  \(  ital "COO" \)  rSub { size 8{2} } +4H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math><emphasis effect="bold"/> (6)</para>
+          <para id="id44993136">The dry solid is carefully weighed on an analytical balance and then diluted in a volumetric flask to give a known molarity. The molarity of an acid or base is determined by titrating a measured volume of the acid or base with the primary standard. Then these acid or base solutions can in turn be used to determine the molarity of another acid or base (this is the case with the standardized solutions of NaOH and HCl used in this experiment).</para>
+          <para id="id44993152">In the example below a known amount of KHP will be titrated with a solution of NaOH to determine the NaOH solution concentration.</para>
+          <para id="id44993159">EXAMPLE:<emphasis effect="bold"/>If 0.8168 g of KHP requires 39.35 mL of NaOH to reach the endpoint in a titration, what is the molarity of the NaOH? (1 mol KHP = 204.2 g)</para>
+          <equation id="id44993178">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>8168</m:mtext>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>gKHP</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mfenced open="(" close=")">
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>molKHP</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>204</m:mtext>
+                                <m:mtext>.</m:mtext>
+                                <m:mn>2</m:mn>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>gKHP</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mfenced>
+                        </m:mrow>
+                        <m:mfenced open="(" close=")">
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>molNaOH</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>molKHP</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mfenced open="(" close=")">
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mrow>
+                              <m:mtext>39</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>35</m:mtext>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>mLNaOH</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mrow>
+                          <m:mfenced open="(" close=")">
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mtext>1000</m:mtext>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>mL</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                              <m:mn>1L</m:mn>
+                            </m:mfrac>
+                          </m:mfenced>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>1016</m:mtext>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>mol</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:mi>L</m:mi>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>1016</m:mtext>
+                        <m:mi>M</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{0 "." "8168" ital "gKHP" times  left ( {  {1 ital "molKHP"}  over  {"204" "." 2 ital "gKHP"} }  right ) left ( {  {1 ital "molNaOH"}  over  {1 ital "molKHP"} }  right ) left ( {  {1}  over  {"39" "." "35" ital "mLNaOH"} }  right ) left ( {  {"1000" ital "mL"}  over  {1L} }  right )=0 "." "1016" ital "mol"/L=0 "." "1016"M} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </equation>
+        </section>
+        <section id="id44993396">
+          <title>Notes on titration method:</title>
+          <para id="id44993403">1. Clean the burette until it drains smoothly. </para>
+          <para id="id44993412">2. Make sure the stopcock doesn't leak. The level should hold for ~3 minutes.</para>
+          <para id="id44993421">3. Remove air bubbles from burette tip before beginning. Rapid spurts usually work.</para>
+          <para id="id44993430">4. Rinse the burette two or three times with 5 mL portions of titrant (the solution you will use to titrate). Hold it horizontal and rotate to rinse.</para>
+          <para id="id44993440">5. Don't forget to record the initial reading. It does <emphasis effect="italics">not</emphasis> need to be 0.00 mL.</para>
+          <para id="id44993458">6. Use a reading card to find the bottom of the meniscus.</para>
+          <para id="id44993463">7. Always read and record burette volumes to 0.01 mL.</para>
+          <para id="id44993472">8. Remember that the burette scale reads <emphasis effect="italics">down</emphasis>, not up.</para>
+          <para id="id44993488">9. Put white paper under the flask to see color change easily.</para>
+          <para id="id44993497">10. Swirl the flask with one hand while turning the stopcock with the other or use stir bar and stir plate.</para>
+          <para id="id44993506">11. Add titrant slowly near the endpoint. Color that dissipates can be seen when getting close to endpoint.</para>
+          <para id="id44993516">12. Drops can be "split" by quickly turning the stopcock through the open position.</para>
+          <para id="id44993521">13. Near the endpoint use deionized water from wash bottle to rinse the flask walls from any splashed drops (adding water does not affect number of moles you have).</para>
+          <para id="id44993533">14. Don't drain burette below 25 mL (You won’t be able to determine final volume accurately). If necessary, read the burette level, refill, read the level, and continue. </para>
+        </section>
+        <section id="id44993549">
+          <title>Calculation Clarification</title>
+          <para id="id44993556">Only part of the HCl is neutralized by the fragment of the antacid tablet. Since the solution is still acidic, NaOH is used to finally cause the change in color. The number of moles of NaOH is equal to the excess of HCl that was not neutralized by the antacid. We <emphasis effect="bold">can </emphasis>use the formula in the procedure to fill in the part of the report form where it asks for the number of moles of HCl neutralized by the antacid:</para>
+          <equation id="id44993579">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>HCl</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>neutralized</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>by</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>Antacid</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>HCl</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mi/>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>added</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>HCl</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mi/>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>excess</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{n rSub { size 8{ ital "HCl"` ital "neutralized"` ital "by"` ital "Antacid"} } =n rSub { size 8{ ital "HCl"` ital "added"} }  - n rSub { size 8{ ital "HCl"` ital "excess"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </equation>
+          <para id="id44993724">So then, this would be the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." 5 times "10" rSup { size 8{ - 3} } } {}</m:annotation></m:semantics></m:math><sup/>mol HCl – the excess which is calculated by converting the volume of NaOH used into moles, this number of moles then equals the number of moles of HCl. </para>
+          <para id="id44993810">25ml of HCLVolume titrated by NaOHNaOHVolume titrated byantacid <figure id="id44993932"><media id="id44993932_media" alt=""><image mime-type="image/png" src="../../media/graphics1-1880.png" id="id44993932__onlineimage" height="153" width="152"/></media></figure></para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

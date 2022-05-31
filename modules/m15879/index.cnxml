@@ -1,0 +1,353 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>From Cells and Electrodes to Golden Pennies</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5e913846-ef5b-4925-9983-251cb38423e4</md:uuid>
+</metadata>
+  <content>
+    <para id="id46493870">Protocol adapted from 'Chemistry in the Laboratory'</para>
+    <section id="id-464179027393">
+      <title>ElectroGels - Metal Corrosion, Anodic Protection and the Golden Penny</title>
+      <para id="element-654"/><section id="id-498556935413">
+        <title>Objective</title>
+        <para id="id46493890">The goal of this experiment is:</para>
+        <list list-type="bulleted" id="id46493894">
+          <item>Observe the deposition of zinc metal on a penny in contact with metallic zinc and to develop a hypothesis to explain how this happens.</item>
+          <item>Observe how iron may be corroded or protected from corrosion depending on whether it is connected to copper or to zinc.</item>
+          <item>Observe the plating of a penny with zinc and subsequent color changes.</item>
+        </list>
+      </section>
+      <section id="id-485207581983">
+        <title>Grading</title>
+        <para id="id46493926">You will be assessed on:</para>
+        <list list-type="bulleted" id="id46985450">
+          <item>completion of the report form.</item>
+          <item>TA evaluation of lab procedure.</item>
+        </list>
+      </section>
+      <section id="id-640807940066">
+        <title> Introduction  </title>
+        <section id="id-783961427863">
+          <title>Electrochemistry is Everywhere</title>
+          <para id="id46985478"> In general, whenever two condensed phases (solid or liquid) are brought into contact, a potential (or voltage) difference develops across the interface. Because the interface region is very thin, even transfer of a small amount of charge across the interface can create a very large electric field. For example, transferring about one picomole (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - "12"} } } {}</m:annotation></m:semantics></m:math> mole) of electron charge per square centimeter of area will typically create a potential difference of approximately 1 volt across an interface layer about one nanometer thick. The electric field in this interface region would be about 109 volts/meter. Electric fields this large can cause the transfer of electrons across an interface layer or the transfer of ions between the inside and outside of ells in living organisms. Because contacts between condensed phases are very common in nature, electrochemical phenomena are very common, even though we are often unaware of them. At the cellular level, electrochemical phenomena are crucial to the propagation of nerve impulses, the timing of muscular contractions of the heart, and activity in your brain cells.</para>
+          <para id="id47294840"> Most of the electrical technology created by humans involves the simplest kind of chemical change; electron transfer across an interface. Often, the interface is between a good electron conductor, called an electrode, and a solution containing molecules or ions. The electrode might be a solid (like platinum or copper metal or graphite), or it could be liquid (like mercury metal). When electrons are transferred from the electrode to a molecule, we say the molecule has been reduced. Electron transfer in the opposite sense (from molecule to electrode) is called oxidation.</para>
+          <para id="id47294844">There are two parts to this lab the first, ANODIC PROTECTION, you will perform in pairs. By coating steel (which is mostly iron metal) with a more active metal like zinc, a process called galvanizing, the steel's corrosion can be retarded or entirely prevented. Often, simply making a good electrical connection between a piece of iron and a piece of zinc is sufficient to keep the iron from corroding. We will study the acceleration and the prevention of iron corrosion by connecting it to various metals.</para>
+          <para id="id46816699">In the second part of this lab, we will be revisiting THE GOLDEN PENNY EXPERIMENT, which will be set up for you by your TA, so that you can make observations. As you remember, the golden penny experiment involves the plating of a penny with zinc metal. First, the penny is immersed in a solution containing 1 M NaOH and granular zinc. Subsequent heating of the penny for a few seconds on a hot plate causes the silver color of the penny to turn a bright golden yellow. Explaining the details of the process presents a challenge.</para>
+        </section>
+      </section>
+      <section id="id-707995621442">
+        <title>EXPERIMENTAL PROCEDURE</title>
+        <section id="id-502537025434">
+          <title> Special Supplies:</title>
+          <para id="id46816730">Part 1: Nominal 100 x 15 mm disposable polystyrene. Petri dishes (three per group); fine steel wool; approximately one soldering kit for every six students consisting of 140-watt soldering iron, rosin-core solder, and one 6 x 6 inch ceramic fiber square (available from Flinn Scientific Inc.); digital voltmeters with alligator clip leads and 2 short lengths (3 cm) of Pt wire to use as voltage probes.</para>
+          <para id="id46816745"> Part 2: Digital voltmeters with alligator clip leads, 6 pennies per group (preferably clean and bright), hot plates, stainless steel forceps; approximately one soldering kit (see the description in Part 1) for every six students.</para>
+        </section>
+        <section id="id-749507260155">
+          <title>Chemicals: </title>
+          <para id="id47325140">Part 1: Agar (powder), 1% phenolphthalein indicator, 0.1 M potassium ferricyanide [hexacyanoferrate)III], 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{3} }  ital "Fe" \(  ital "CN" \)  rSub { size 8{6} } } {}</m:annotation></m:semantics></m:math>; two zinc metal strips, 6 x 40 mm, cut from 0.01-inch thick zinc foil; two copper metal strips 6 x 40 mm, cut from 0.01- (or 0.005)-inch thick copper foil; 2 ungalvanized finishing nails per group (before use, clean by soaking briefly in 3 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> acid, rinsing with deionized water, and drying in an oven).</para>
+          <para id="id46996512"> Part 2: 30-mesh zinc metal; zinc metal powder, 6 x 100 mm strips of zinc metal (one per group) cut from 0.01-inch thick zinc foil; 20 gauge copper wire; 1 M NaOH, 1 M HCL in dropper bottles, and a 1 M NaOH/Zn
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "NO" rSub { size 8{3} }  \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> 50:50 mix solution.</para>
+          <para id="id47340214">! SAFETY PRECAUTIONS WEAR EYE PROTECTION AT ALL TIMES. Sodium hydroxide is corrosive. You may want to provide latex rubber gloves for handling pennies that have been in contact with 1 M NaOH.</para>
+          <para id="id47340222">WASTE COLLECTION: Your instructor may direct you to waste containers for NaOH solutions used in this experiment. These substances can be disposed of down the drain only if they are neutralized by sodium bicarbonate.</para>
+          <para id="id47340229"> 5-10 min.</para>
+          <para id="id47340238">METAL CORROSION AND ANODIC PROTECTION.</para>
+          <list list-type="enumerated" id="id47320052"><item>Obtain two 6 x 40 mm strips of zinc foil, two 6 x 40 mm strips of copper foil, and two 4-penny (40 mm long) ungalvanized iron finishing nails (which should have been previously cleaned by immersion in 3 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>, then rinsed with deionized water, and dried in an oven).</item>
+            <item>Clean the zinc and copper strips with steel wool to produce a clean, shiny surface.</item>
+            <item>Use detergent (1% alconox located by each sink)to remove the film of oil on the strips, rinse them with deionized water, and dry them with a tissue.15 min. experienced, 30 min. novice</item>
+            <item>General Soldering Instructions. Go to a soldering station where you will find a ceramic fiber square, soldering iron, and rosin core solder. When soldering, place the zinc strip on a ceramic fiber square and position the copper strip so the ends of the two strips overlap by about 4-5 mm. Ask a partner to apply pressure to the copper strip, holding it in place while you are soldering the joint. (Your partner may use almost any tool for this except a bare finger, because the strip will get very hot- a rubber stopper is recommended.) In the combination using a iron nail, have the nail ontop of the other metal, heat the nail in order to make a good seal.</item>
+            <item>Plug the soldering iron in and let it heat up for a couple minutes. Then tin the tip of the iron with solder, wiping off all excess with a damp sponge or damp paper towels. Place the freshly tinned tip on the copper strip next to the zinc strip, angling the iron to get good thermal contact. Let the copper strip heat up for a good 30 seconds.</item>
+            <item>Feed the solder into the area between the zinc strip and the tip of the soldering iron. When the copper strip is hot enough, the solder will flow into the joint. Don't dab at the joint with the tip of iron while soldering. The tip must be kept in continuous good thermal contact with the joint so that the copper strip heats up. Using steel wool, remove any rosin remaining from the soldering operation; then rinse the soldered joints, and dry the metal strips with a tissue.</item>
+            <item>If the metal strips no longer have a clean, shiny surface due to excessive touching and handling, use detergent to remove the oily film as before and rinse them thoroughly with deionized water. WARNING!- be very gentle cleaning your soldered metal strips to avoid breaking the joint you just made!</item>
+            <item> If you are a novice at soldering or have never soldered before, check out the helpful hints at: <link url="http://aaroncake.net/electronics/solder.htm">How to Solder.</link></item>
+            <item> Now you should have a Zn/Cu piece, a Cu/Fe piece, and a Zn/Fe piece. (Once these soldered bimetal pieces have been made, they can be cleaned and reused several times, so don't throw them away at the end of the experiment unless your instructor direct you to.) 10-15 min.</item>
+            <item>Add 3 g of agar to 225 mL of boiling deionized water in a 600-mL beaker. At this point it's best to turn down the heat and stir with a large magnetic stir bar until the agar is dissolved. Be patient, the agar tends to clump and complete dissolution can take 10 min. Be careful not to heat the agar so much that it scorches or boils over. While the agar suspension is hot, add 2 mL of 1% phenolphthalein indicator with a calibrated transfer pipette. Continue stirring for a couple minutes.5-10min.</item>
+            <item>Get three nominal 100 x 15 mm polystyrene Petri dishes. Put each of the three soldered bimetal pieces in the bottom (taller) half or a Petri dish. Protecting your hands from the beaker containing the hot agar solution with "hot hands" or paper towels, pour the agar over the metal pieces in the Petri dishes. Cover the metal pieces, but do not fill the dish beyond half its depth. There should be no voids or bubbles underneath the metal strips.</item>
+            <item>After the agar cools and gels (approximately 20 min.), use a fine-tipped transfer pipette to place one small (0.02 mL) drop of 0.1 M potassium ferricyanide 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>III</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{3} }  ital "Fe" \[  ital "III" \]  \[  ital "CN" \]  rSub { size 8{6} } } {}</m:annotation></m:semantics></m:math> along side each iron nail, about 1 cm away from the middle. The ferricyanide salt will diffuse radially outward. If the ferricyanide ions encounter any 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> formed by oxidation of Fe, they will react with the Fe(II) ions to form a dark blue compound formulated as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KFe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>III</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KFe" \(  ital "III" \)  ital "Fe" \(  ital "II" \)  \(  ital "CN" \)  rSub { size 8{6} } } {}</m:annotation></m:semantics></m:math>. (It's reported that you get the same produce by mixing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math> with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{4} }  ital "Fe" \[  ital "II" \]  \[  ital "CN" \]  rSub { size 8{6} } } {}</m:annotation></m:semantics></m:math>). Evidently in the final product the iron atoms have exchanged an electron so that the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> ion is oxidized to Fe(III), and the Fe(III) originally in the ferricyanide ion is reduced to Fe(II). WARNING!- the drop of potassium ferricyanide will not immediately "soak" into the agar gel. It will remain on top like a bead of water. Be careful not to jar or move the Petri dish too much after placing the drop.</item>
+            <item>During the course of the afternoon, make periodic observations of the Petri dishes. Look for evidence of formation of hydroxide ion, which will turn the phenolphthalein pink; the formation of insoluble metal ion-hydroxide salts, which will appear as a cloudy band; or the formation of a blue compound in those dishes containing iron nails (with an added drop of 0.1 M potassium ferricyanide, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{3} }  ital "Fe" \[  ital "CN" \]  rSub { size 8{6} } } {}</m:annotation></m:semantics></m:math>, indicating oxidation of Fe to form 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math>.20-25min.</item>
+            <item>Obtain two short lengths (about 3 cm long) of platinum wire and a digital voltmeter with leads connected to alligator clips to hold short lengths of wire that will be used as voltage probes. Adjust the voltmeter to its most sensitive voltage range (200 millivolts). First, carefully clamp the alligator clips to the platinum voltage probes and immerse the probes in the agar, one probe midway alongside one metal and the other probe midway along the other jointed metal. (Support the probes at all times with your hands and keep the probes upright, perpendicular to the Petri dish. Make sure the probes do not touch the metal strips.) Note whether there is any voltage difference. Note the polarity. Which metal is nearest the positive (+) end? Any voltage difference indicates an electric field between the two points in the agar created by the formation of positive and negative ions in the two regions. Considering the polarity of the measured field, what ions do you think might be responsible fore the presence of the electric field? Write plausible reactions for the formation of positive ions (metal atom oxidation) and negative ions (reduction of water or oxygen).</item>
+            <item> Next, touch the probes directly to the two metals at their midpoints and note any voltage reading. (The voltage reading is expected to be zero volts because metals are such good electronic conductors that only a tiny electric field can exist in the two metals together.) The metals soldered together are said to form an equipotential surface (a surface where the potential is constant, so that the voltage difference between any two points on the metal is zero.)</item>
+            <item> Put the top cover on your Petri dish, and tape the top cover in place with two or three short strips of tape. Write your initials or other identifying marks on the tape.</item>
+            <item> Continue visual observations in your next lab period, looking for evidence of formation of any pink color or any visible precipitates. Make sketches, and write verbal descriptions of the changes you observe. </item>
+          </list>
+        </section>
+      </section>
+      <section id="id-504458461802">
+        <title> REACTIONS THAT MIGHT FORM OH- ION.</title>
+        <para id="id46493998">When a pink color develops around a metal in a gel containing phenolphthalein indicator, it means that the solution next to the metal is basic. In an aqueous gel, the pink color means that some hydroxide ions have been formed.</para>
+        <para id="id46494006"> Although any electrons given up when a reactive metal is oxidized might react at the spot where the oxidation occurs, they can also readily travel to any other spot on the surface of the two joined pieces of metal. That means, it is possible that the point where metals atoms are oxidized could be some distance from the point where hydroxide ions are produced.</para>
+        <para id="id46494022"> Now let's think about what might be most likely to accept these available electrons. Metal atoms typically don't accept electrons to form negatively charged metal ions. Rather, metal ions tend to give up electrons to form positive ions. Things that are easy to reduce have the most positive standard reduction potentials, like halogens, but we don't have any halogens in our system. The gel surrounding the metal consists mainly of water with about one percent of agar. Although water is not easy to reduce, because water has a negative standard reduction potential in basic solution, this substance can be reduced when the reaction is coupled to the oxidation of Zn metal in basic solution, as shown by the following standard reduction potentials:</para>
+        <para id="id46494026"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Zn</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:mrow><m:msubsup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">→</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Zn</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Zn" \(  ital "OH" \)  rSub { size 8{4} }  rSup { size 8{2 - {}} } +2e rSup { size 8{ - {}} }  rightarrow  ital "Zn" \( s \) +4 ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math></para>
+        <equation id="id47142212">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>E</m:mi>
+                      <m:mi>°</m:mi>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>MOH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>28</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>volts</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( E° ital "in"1 ital "MOH" rSup { size 8{ - {}} } = - 1 "." "28" ital "volts" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id47035017"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mn>2H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">→</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2H rSub { size 8{2} } O+2e rSup { size 8{ - {}} }  rightarrow H rSub { size 8{2} }  \( g \) +2 ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math></para>
+        <equation id="id46718912">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>E</m:mi>
+                      <m:mi>°</m:mi>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>MOH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>80</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>volts</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( E° ital "in"1 ital "MOH" rSup { size 8{ - {}} } = - 0 "." "80" ital "volts" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id47342878"> Agar is a polysaccharide (like starch), and polysaccharides are not easy to reduce. Finally we must not forget that the Petri dishes are open to the air, so the agar gel also contains dissolved oxygen, a good acceptor of electrons. At least two reactions involving oxygen deserve serious consideration:</para>
+        <para id="id47342892"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">→</m:mo><m:mrow><m:msubsup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{O rSub { size 8{2} }  \( g \) +H rSub { size 8{2} } O+2e rSup { size 8{ - {}} }  rightarrow H rSub { size 8{2} }  rSup { size 8{ - {}} } + ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math></para>
+        <equation id="id47342923">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>E</m:mi>
+                      <m:mi>°</m:mi>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>MOH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>065</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>volts</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( E° ital "in"1 ital "MOH" rSup { size 8{ - {}} } = - 0 "." "065" ital "volts" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id47343034"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:msub><m:mn>2H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">→</m:mo><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{O rSub { size 8{2} }  \( g \) +2H rSub { size 8{2} } O+4e rSup { size 8{ - {}} }  rightarrow 4 ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math></para>
+        <equation id="id46419883">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>E</m:mi>
+                      <m:mi>°</m:mi>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msup>
+                              <m:mtext>MOH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>40</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>volts</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( E° ital "in"1 ital "MOH" rSup { size 8{ - {}} } = - 0 "." "40" ital "volts" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id47323027">The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>E</m:mi><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E°} {}</m:annotation></m:semantics></m:math> for reduction of oxygen in basic solution is considerably more positive than for the reduction of water. So we definitely must consider the possibility that oxygen might be the species that could most easily be reduced, with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> (and possibly hydrogen peroxide) being the reduction product.</para>
+        <para id="id47299859"> The reduction of either water or oxygen produces hydroxide ions, but the formation of a pink color with phenolphthalein does not tell us which reaction might be responsible. Thermodynamics (as measured by the standard reduction potentials) favors reduction of oxygen over reduction of water. However, the reduction of oxygen on many metals is known to have a large activation energy, which usually causes the reaction to be slow. Thus, kinetics may favor the reduction of water, particularly because the concentration of water is much greater than the concentration of oxygen in the agar gel. Can you think of an experiment that might allow you to distinguish if water or oxygen is the major species being reduced? 20-25min.</para>
+      </section>
+      <section id="id-687565458467">
+        <title>THE GOLDEN PENNY EXPERIMENT.</title>
+        <list list-type="enumerated" id="id46558561">
+          <item>Your TA will set this up for you by putting 8 g of 30 mesh zinc in the bottom of a 400-mL beaker. It is best to weigh-out the zinc in a watch glass and pour the zinc into a tilted 400-mL beaker so as to keep the zinc on one side of the beaker. Use a spatula and tilt and tap the beaker on the bench top in order to get all the granular zinc to cover about half the bottom of the beaker (one-half not covered: see Figure 5). Carefully pour 200 mL of 1 NaOH down the side of the beaker, being careful not to disturb the distribution of zinc. Use a stirring rod or spatula to clear any remaining granules so that half of the beaker bottom is completely free of zinc granules. Place the beaker on a hot plate in the fume hood and turn the hot plate to medium heat. The solution should be heated to about 80-90
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>; if it is heated to boiling the distribution of zinc granules will be disturbed. Continually monitor and check the temperature to keep it in this range. 20-25min.</item>
+          <item>While waiting for the solution to heat, buff six copper pennies with steel wool until they are shiny. Wash them with deionized water and dry. Solder 10-cm lengths of 20-gauge copper wire to two of the pennies, overlapping the wire and penny about 2 to 3 mm from the edge. Solder the free end of one of the copper wires to a 5 x 100 mm strip of zinc metal, as shown in Figure 5. Clean any rosin off the soldered joints with steel wool, and rinse with water.</item>
+        </list>
+        <figure id="id46558652">
+          <media id="idp2303184" alt=""><image src="../../media/graphics1-4519.png" mime-type="image/png" height="466" width="506"/></media>
+        </figure>
+        <para id="id46558676">Figure 5</para>
+        <list list-type="enumerated" id="id46558680">
+          <item>When soldering, place the penny on a ceramic fiber square, with the end of a copper wire overlapping the penny 2-3 mm. Ask a partner to apply pressure to the wire to hold it in place while you are soldering the joint -use a rubber stopper as before to do this.</item>
+          <item>Four arrangements of copper pennies in the golden penny experiment.</item>
+        </list>
+        <para id="id46558703">The bottom of the beaker is half-covered with 30-mesh zinc metal. (A) Two pennies are lying on top of the 30-mesh zinc.</para>
+        <para id="id46558709">(B) Two pennies are lying on the bottom of the beaker but not in contact with the 30-mesh zinc. (C) A penny soldered to copper wire is immersed in solution, the other end of the copper wire being soldered to a strip of zinc metal in contact with 30-mesh zinc on the bottom of the beaker. (D) A penny soldered to copper wire is immersed in solution. The solution in the beaker is 1 M NaOH.</para>
+        <para id="id46558720"> Review the General Soldering Instructions in Part I. Place the freshly tinned tip of the penny next to the wire angling the iron to get good thermal contact. Don't dab at the joint with the tip of the iron while soldering.</para>
+        <list list-type="enumerated" id="id46558732">
+          <item> When the solution has warmed, use forceps to place two copper pennies on top of the granular zinc metal and two pennies in the area that is free of granular zinc (make sure that the pennies on the uncovered side do not contact even one grain of zinc). Bend a small "foot" on the penny in the beaker as shown in Figure 5. The "foot" of the zinc strip should rest on the granular size so that both are in direct contact. The penny should be completely immersed in solution but should not contact any granular zinc metal on the bottom of the beaker. Finally, hang the last penny (the one with only copper wire soldered to it) over the edge of the beaker so that the penny is completely immersed in solution. See Figure 5. HINT- use an empty 400-mL beaker to bend and shape your soldered metal pieces to match what is pictured in Figure 5. Do this before attempting to put them in the 400-mL beaker containing your warm NaOH solution. 30min.</item>
+          <item>Leave the pennies in the beaker until some of them turn a silvery color. This may take anywhere from 5 to 30 min., depending on the temperature of the solution. (Some of the pennies will never turn silver even after waiting an hour or more.)</item>
+          <item>Which pennies turn a silvery color? Is it the three pennies that are in contact with the solution and with zinc, either directly or through the copper wire? Or is it the three pennies in contact with the solution but not indirect or indirect contact with zinc metal?  5-10min.</item>
+          <item>Using a pair of forceps, remove the pennies that have turned a uniform silvery color, rinse them with water, and put the pennies on a hot plate for a few seconds. Watch what happens to the silver-colored pennies as they heat on the hot plate. Keep the solution warm in the beaker in case you need to repeat some part of the experiment or try some new experiment, as described below. 5-10min.</item>
+          <item>Further Experiments. Solder another length of copper wire to a shiny clean penny. Actually, you can use the lone penny soldered to the copper wire from the first part of the experiment, just clean it with steel wool and deionized water. Connect one lead of a voltmeter to a zinc strip and the other lead to the copper wire soldered to the penny. Using the same solution you prepared earlier, immerse the zinc strip and penny in the solution. Is there a voltage difference between the zinc strip and the copper wire soldered to the copper penny? Which metal is the electron source (the negative terminal of this electrochemical cell)? 5-10min.</item>
+          <item>Do you think a current flows in the copper wire connecting the zinc strip and copper penny when both are immersed in the solution? If so, which direction will electrons flow, and what are the anode and cathode reactions? Put the digital voltmeter into its current measuring mode on its most sensitive (microampere) scale. Then see if any current is flowing when you connect the meter in series between the copper wire soldered to the penny and to the zinc strip -both the penny and the zinc strip should be immersed in the hot 1 M NaOH solution. The series connections should look like this: Penny/copper wire/(+) ammeter(-)/zinc strip. How large a current flows? . Is the current (charge flow) from penny to zinc strip or vice versa?</item>
+          <item>In wires the charge carriers are electrons. Current (defined as a flow of positive charge) is opposite to the flow of electrons. In which direction are electrons flowing: from penny to zinc strip or vice versa?</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

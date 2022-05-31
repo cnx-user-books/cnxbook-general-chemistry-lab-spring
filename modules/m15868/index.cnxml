@@ -1,0 +1,165 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Curious Case of Catalase</title>
+  <metadata>
+  <md:content-id>m15868</md:content-id><md:title>The Curious Case of Catalase</md:title>
+  <md:abstract/>
+  <md:uuid>bd5846ba-40a1-48ab-83c8-cef17cb388ac</md:uuid>
+</metadata>
+  <content>
+    <section id="id-835521897997">
+      <title>The Curious Case of Catalase</title>
+      <section id="id-88696966386">
+        <title>Objective </title>
+        <list id="id9030338" list-type="bulleted">
+          <item>To prepare the enzyme o-diphenoloxidase from a vegetable or fruit.</item>
+          <item>To study the effects of temperature.</item>
+          <item>To study the specificity of enzyme activity.</item>
+          <item>To observe the change in enzyme activity due to changes in pH.</item>
+          <item>To study the effect of an inhibitor on your prepared enzyme.</item>
+          <item>To put you off potatoes for life!</item>
+        </list>
+      </section>
+      <section id="id-655299012627">
+        <title>Grading</title>
+        <list id="id6883639" list-type="bulleted">
+          <item>Pre-Lab (10%)</item>
+          <item>Lab Report Form (80%)</item>
+          <item>TA Points (10%)</item>
+        </list>
+      </section>
+      <section id="id-639937780321">
+        <title>Background Information</title>
+        <para id="id6889558">Many details of how catalysis occurs have been obtained from the study of enzymatic reactions in biological systems, where specific protein molecules called enzymes function as homogeneous catalysts. They produce an increase in the rate of reaction by providing an alternate lower-energy pathway for the formation of products. This phenomenon of enzymatic catalysis makes biological reactions necessary for the maintenance of life possible. As biological catalysts, enzymes retain the characteristics of chemical catalysts: they increase the reaction rate, remain unchanged after the reaction, have no effect on the equilibrium constant 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>eq</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( K rSub { size 8{ ital "eq"} }  \) } {}</m:annotation></m:semantics></m:math> or on the ultimate equilibrium conditions for a reaction, and are highly efficient. Enzymes help orient the reaction participants to be more likely to react, to discriminate between one possible reactant molecule and another with uncanny specificity, and sometimes to provide a coupling mechanism that ensures one reaction always is accompanied by another reaction in a specific sequence.</para>
+        <para id="id9629113">A molecule acted upon by an enzyme is referred to as the substrate of that enzyme. The presence or absence of a single atom, or a single charge, may decide whether a molecule is the optimum substrate or is rejected by the enzyme. The ability of the enzyme to select from among many possible molecules with which it could react is called enzyme specificity.</para>
+        <para id="id9137488">Although some molecules sufficiently resemble the optimum substrate of an enzyme to bind to the active site, they cannot undergo chemical reaction: they simply sit there, blocking the site rather like a bump on a log, preventing the enzyme from functioning with the true substrate. Such molecular impersonators are termed competitive inhibitors. This competitive inhibition can be reversible, since the impersonators can be flushed off the enzyme with a sufficient excess of true substrate. DFP (diisopropyl fluorophosphate, an organophosphate) is a potent and lethal nerve gas, i.e. an irreversible inhibitor as it irreversibly inhibits the enzyme acetylcholinesterase, which is essential for the conduction of nerve impulses. </para>
+        <para id="id8515601"><media id="id9685104" alt=""><image src="../../media/graphics1-d0c3.jpg" mime-type="image/jpeg" height="128" width="112"/></media>Structure of DFP</para>
+        <para id="id9811509">Many organophosphorus compounds used as insecticides are deadly nerve toxins for exactly the same reason.</para>
+        <para id="id7931277">The ability of an enzyme to catalyze a specific reaction is termed its activity – a measure of the rate at which the reaction proceeds. Enzyme activity depends on several variables such as pH, temperature, concentration, and specificity of substrate, cofactors, and inhibitors. Vitamins and minerals, two important factors of human nutrition, play an essential role in the proper function of certain enzymes. Approximately one-third of known enzymes require a metallic ion for their activity. The term cofactor is used to group coenzymes and minerals within a general category.</para>
+        <para id="id7931281">An oxidase is an enzyme that catalyzes the transfer of hydrogen from some compound to molecular oxygen in order to form water. Polyphenoloxidase is a copper-containing enzyme that catalyzes the removal of hydrogen, as in the oxidation of dihydroxyphenols to the corresponding quinones. This type of oxidation is accompanied by a color change. Polyphenoloxidases, also known as o-diphenoloxidases, are distributed widely in the plant kingdom (e.g. champignon mushrooms, potatoes, bananas). They are responsible for the darkening of freshly cut surfaces of plants or fruits. For insects, o-diphenoloxidase is important both for melanin formation and for browning and hardening (sclerotization) of the cuticle. In this experiment, the observed color change is used as a measure of extent of the reaction.</para>
+        <para id="id8096353"> </para>
+        <section id="id-106801287789">
+          <title>Experimental Procedure</title>
+          <para id="id9030308">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-301677938508">
+          <title>Part I. Preparation of the Enzyme</title>
+          <list id="id9672650" list-type="enumerated">
+            <item>Peel and grind two to three potatoes in a blender.</item>
+            <item>Add 25-30 mL of water to the mixture, swirl the mixture occasionally, and let it stand for about 10 minutes.</item>
+            <item>Filter the solution in cheesecloth to obtain a clear solution.</item>
+            <item>While you are filtering the solution, prepare the water bath that you will use in the following sections.</item>
+            <item>Use this solution as a source of catalase and o-polyphenoloxidase.</item>
+          </list>
+        </section>
+        <section id="id-456353494536">
+          <title>Part II. The Effects of Temperature</title>
+          <list id="id6837076" list-type="enumerated">
+            <item>The gas-collecting apparatus has been prepared for you, and it consists of a large test tube fitted with a rubber tube leading from a one-hole rubber stopper. The other end of the tube should be directed beneath an inverted, water-filled, graduated cylinder in a large beaker filled with water.</item>
+            <item>Add about 5 mL of hydrogen peroxide, at room temperature, to the tube.</item>
+            <item>Quickly add 3 mL of catalase extract.</item>
+            <item>Stopper the test tube, swirl it once to mix, and collect the gas in the graduated cylinder.</item>
+            <item>Note the time required to collect 5 mL of the gas.</item>
+            <item>Repeat the procedure using both extract and hydrogen peroxide cooled in an ice bath. Record the temperature and the time required to produce 5 mL of oxygen.</item>
+            <item>Repeat using extract and hydrogen peroxide warmed in a water bath to 37
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>. Again, record the temperature and the time required to collect 5 mL of oxygen.</item>
+            <item>From your results, answer the question: What effect does temperature have on enzyme activity?</item>
+          </list>
+        </section>
+        <section id="id-0808509837563">
+          <title>Part III. The Specificity of Enzyme Activity</title>
+          <para id="id9811328">In this part of the experiment, you will evaluate the specificity of the substrate structure required for enzyme activity. The substrate structure varies to demonstrate the need for:</para>
+          <list id="id9811332" list-type="enumerated">
+            <item>an aromatic or aliphatic ring</item>
+            <item>one or two hydroxy groups</item>
+            <item>proximity of hydroxy groups on the ring</item>
+          </list>
+          <para id="id9171892">The substrates include the following:</para>
+          <list id="id9171896" list-type="enumerated">
+            <item>deionized water</item>
+            <item>cyclohexanol </item>
+          </list>
+          <figure id="id8667968">
+            <media id="id13487432" alt=""><image src="../../media/graphics2-7b66.jpg" mime-type="image/jpeg" height="64" width="80"/></media>
+          </figure>
+          <list id="id9171877" list-type="enumerated">
+            <item>1,4 cyclohexanediol</item>
+          </list>
+          <figure id="id8667804">
+            <media id="id12801502" alt=""><image src="../../media/graphics3-2779.jpg" mime-type="image/jpeg" height="48" width="96"/></media>
+          </figure>
+          <list id="id9328825" list-type="enumerated">
+            <item>phenol</item>
+          </list>
+          <figure id="id8264136">
+            <media id="id5103221" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="64" width="64"/></media>
+          </figure>
+          <list id="id6969884" list-type="enumerated">
+            <item>catechol (o-hydroxyphenol)</item>
+          </list>
+          <figure id="id9354261">
+            <media id="id15582311" alt=""><image src="../../media/graphics5.jpg" mime-type="image/jpeg" height="64" width="64"/></media>
+          </figure>
+          <list id="id9354279" list-type="enumerated">
+            <item>resorcinol (m-hydroxyphenol)</item>
+          </list>
+          <figure id="id9689416">
+            <media id="id5480652" alt=""><image src="../../media/graphics6.jpg" mime-type="image/jpeg" height="80" width="80"/></media>
+          </figure>
+          <list id="id9673183" list-type="enumerated">
+            <item>hydroquinone (p-hydroxyphenol)</item>
+          </list>
+          <figure id="id8311487">
+            <media id="id3613374" alt=""><image src="../../media/graphics7.jpg" mime-type="image/jpeg" height="64" width="96"/></media>
+          </figure>
+          <para id="id7274305">Caution: Some of the solutions used in the next step are toxic and can be absorbed through the skin. Avoid skin contact.</para>
+          <list id="id9867616" list-type="enumerated">
+            <item>Prepare seven labeled 6-inch (15-cm) test tubes with labels and contents as follows: </item>
+          </list>
+          <para id="id9796755">Tube 1: 1.0 mL distilled waterTube 2: 1.0 mL 0.01 M cyclohexanolTube 3: 1.0 mL 0.01 M 1,4-cyclohexanediolTube 4: 1.0 mL 0.01 M phenolTube 5: 1.0 mL 0.01 M catecholTube 6: 1.0 mL 0.01 M resorcinolTube 7: 1.0 mL 0.01 M hydroquinone</para>
+          <para id="id9811254">To each tube add an additional 3.0 mL of distilled water. (These are the substrate tubes.)</para>
+          <list id="id9290183" list-type="enumerated">
+            <item>Place all the labeled substrate test tubes into a 37
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math> water bath.</item>
+            <item>Transfer 3.0 mL of vegetable extract into each of another set of seven test tubes, and then place them into the constant temperature water bath. (These are the enzyme tubes.)</item>
+            <item>Allow the two sets of test tubes to remain in the constant temperature bath for five minutes.</item>
+            <item>Quickly add the contents of the enzyme tubes to the substrate tubes.</item>
+            <item>Remove all the test tubes from the water bath and compare the intensity of any developed color to Tube 1, which contains distilled water.</item>
+            <item>Arrange the test tubes in progressive intensity of color and record the sequence. Tube 1 (blank) is assigned a value of 0; the other tubes are then ranked 1, 2, 3, and so on. </item>
+            <item>What can you conclude about the development of a color?</item>
+            <item>On your report form, list the substrates that do not react with the enzyme.</item>
+          </list>
+        </section>
+        <section id="id-445356966394">
+          <title>Part IV. The Change in Enzyme Activity Due to Change in pH</title>
+          <para id="id9867988">The final part of the experiment will involve an investigation into the effect of pH on enzyme activity.</para>
+          <list id="id9867994" list-type="enumerated">
+            <item>Prepare five small test tubes with labels and contents as follows: </item>
+          </list>
+          <para id="id9569202">Tube 1: 4 mL of pH 4.0 buffer solutionTube 2: 4 mL of pH 6.0 buffer solutionTube 3: 4 mL of pH 7.0 buffer solutionTube 4: 4 mL of pH 8.0 buffer solutionTube 5: 4 mL of pH 10.0 buffer solution</para>
+          <list id="id8668047" list-type="enumerated">
+            <item>Add to each of these test tubes 15 drops of 0.01 M solution of the most active substrate and 15 drops of extract solution (enzyme).</item>
+            <item>Mix gently, and then incubate the test tubes in the constant-temperature water bath set at 37
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>. While you are waiting 15 minutes for the color to develop, do not start the final section involving copper sulfate.</item>
+            <item>After 15 minutes, examine each test tube for color changes and record your results.</item>
+            <item>From your results answer the question: What is the optimum pH range for maximum activity of the o-diphenoloxidase enzyme?</item>
+          </list>
+        </section>
+        <section id="id-00744344097753">
+          <title>Part V. The Effect of Adding Copper Sulfate</title>
+          <list id="id7570250" list-type="enumerated">
+            <item>Place 5 mL of hydrogen peroxide in a test tube.</item>
+            <item>Place 5 mL of the catalase solution in a second test tube.</item>
+            <item>Add 5-10 drops of copper sulfate solution to the second test tube.</item>
+            <item>Place both test tubes in a water bath at 20
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math> for 5 min.</item>
+            <item>Mix the test tubes and measure the amount of oxygen produced in 5 min.</item>
+            <item>Record your observations on your report form.</item>
+          </list>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

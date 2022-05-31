@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Pervasive Polymers</title>
+  <metadata>
+  <md:content-id>m19573</md:content-id><md:title>Pervasive Polymers</md:title>
+  <md:abstract/>
+  <md:uuid>77b9c914-2f88-47d5-826e-487c41ea2b11</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m19573/latest/Report.doc" strength="3">Report</link>
+      <link url="http://cnx.org/content/m19573/latest/Background.doc" strength="3">Background</link>
+      <link url="http://cnx.org/content/m19573/latest/PreLab.doc" strength="3">PreLab</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id12034164">Pervasive Polymers</para>
+    <section id="id9768123">
+      <title>Objectives</title>
+      <para id="id9166959">In this laboratory you will become familiar with the classifications of polymers by synthesizing and examining several of the following:</para>
+      <list id="id9022976" list-type="bulleted">
+        <item>a polyamide (nylon)</item>
+        <item>a cross-linked condensation copolymer (Glyptal
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>TM</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ ital "TM"} } } {}</m:annotation></m:semantics></m:math> resin)</item>
+        <item>a cross-linked polyvinyl alcohol</item>
+        <item>a loosely cross-linked silicon-based condensation polymer (a polymethylsiloxane)</item>
+      </list>
+      <para id="id10536041">Additional information about polymers can be found in Chapter 12 of your textbook.</para>
+    </section>
+    <section id="id7835356">
+      <title> Grading</title>
+      <para id="id10606846">Your grade will consist of the following:</para>
+      <list id="id8415587" list-type="bulleted">
+        <item>Pre-lab (10%)</item>
+        <item>Correctness and thoroughness of your observations and the answers to the questions on the report form (80%)</item>
+        <item>TA evaluation of lab procedure (10%)</item>
+      </list>
+      <para id="id10306134">Before Coming to Lab . . .</para>
+      <list id="id8401051" list-type="bulleted">
+        <item>Complete the pre-lab exercise</item>
+        <item>Read the introduction and any related materials provided to you</item>
+      </list>
+      <para id="id12043340">NOTE: If you wear contact lenses, for this week’s lab, you may prefer to wear your prescription glasses. </para>
+      <para id="id8563504">Introduction</para>
+      <para id="id9784802">Approximately 50% of the industrial chemists in the United States work in some area of polymer chemistry, a fact that illustrates just how important polymers are to our economy and standard of living. These polymers are essential to the production of goods ranging from toys to roofing materials. So just what exactly are polymers? Polymers are substances composed of extremely large molecules, termed macromolecules, with molecular masses ranging from 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{4} } } {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{8} } } {}</m:annotation></m:semantics></m:math> amu. Macromolecules consist of many smaller molecular units, monomers, joined together through covalent bonds. The molar mass of the polymer is quoted as an average molar mass.</para>
+      <para id="id12652267">Both natural and synthetic polymers are ubiquitous in our lives: elastomers (polymers with elastic, rubber-like properties), plastics (the first plastic was used in 1843 to make buttons), textile fibers, resins, and adhesives. The more common polymers include acrylics, alkyds, cellulosics, epoxy resins, phenolics, polycarbonates, polyamides, polyesters, polyfluorocarbons, polyolefins, polystyrenes, silicones, and vinyl plastics, to name but a few.</para>
+      <para id="id12420873">Naturally occurring macromolecules are derived from living things: wood, wool, paper, cotton, starch, silk, rubber and have provided us for centuries with materials for clothing, food, and housing. Starch, glycogen, and cellulose are all polymeric versions of the monomer glucose. Again, we see that minor structural variations create chemicals with very different properties. Proteins are macromolecules composed of monomeric units of alpha amino acids; nucleic acids are composed of subunits (nucleotides) containing a nitrogeneous base, sugar and phosphate groups. Natural rubber is a latex exudate of certain trees and composed of monomers called isoprene units. The usefulness of latex was first discovered by Lord Mackintosh in Malaysia in the 19th century and provided the foundation of his waterproof rainwear empire.</para>
+      <para id="id10569621">When scientists linked the special properties of these substances (physical properties such as tensile strength and flexibility) to the sizes of their molecules, the next logical step involved chemical modifications of naturally occurring polymers.</para>
+      <para id="id10081315">Synthetic celluloid derives from natural cellulose and stems from an accident that Christian Schoenbein, a chemistry professor, had in 1846. The age of plastic had begun, although the interest in cellulose nitrate was initially more for its explosive properties. When cellulose (from wood chips or fiber) is treated with a mixture of nitric acid, camphor, and alcohol, the resultant product is called Celluloid
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>TM</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ ital "TM"} } } {}</m:annotation></m:semantics></m:math> and bears very little resemblance to the starting material. Celluloid
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>TM</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ ital "TM"} } } {}</m:annotation></m:semantics></m:math> possesses the ability to be molded into hard, smooth billiard balls (replacing the original, very expensive ivory balls) and into thin sheets for making movie pictures. Celluloid
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>TM</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ ital "TM"} } } {}</m:annotation></m:semantics></m:math> is highly flammable and today has been replaced by greatly improved synthetic polymers such as Bakelite discovered in 1907 by the Belgian-American Chemist, Leo H. Baekeland.</para>
+      <para id="id9086044">When cellulose is treated with sodium hydroxide and carbon disulfide 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CS</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "CS" rSub { size 8{2} }  \) } {}</m:annotation></m:semantics></m:math>, cellulose xanthate is formed. A viscous (thick) solution of cellulose xanthate, forced through fine holes into dilute sulfuric acid, regenerates the cellulose as fine, continuous, cylindrical threads called rayon. If the solution is forced instead through a narrow slit, a thin transparent film or sheet is obtained called cellophane.</para>
+      <para id="id9160476">Experimental Procedure</para>
+      <para id="id9020031">A. Synthesis of Nylon (to be performed in the hood by Dr McHale): Two liquids are mixed in a small beaker and nylon is formed at their interface. The nylon is pulled from the beaker; a continuous thread 10-15 ft long can be formed. CAUTION: Wear gloves while performing this experiment; do not touch the nylon with your bare hands until it has been rinsed thoroughly with water.</para>
+      <list id="id11357081" list-type="enumerated">
+        <item>Solutions A and B have been prepared for you:</item>
+      </list>
+      <list id="id12538717" list-type="bulleted">
+        <item>Solution A: A 0.5 M basic solution of hexamethylenediamine (or 2,6-diaminohexane, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>H</m:mi><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NH</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mi>H</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H -  ital "NH" \(  ital "CH" rSub { size 8{2} }  \)  rSub { size 8{6} }  ital "NH" - H} {}</m:annotation></m:semantics></m:math>) was prepared as follows: Weigh 5.81 g in a large beaker and dilute to 100 mL with 0.5 M NaOH solution (20 g of NaOH per liter). Warm the solid until it melts. Wear gloves; hexamethylenediamine is absorbed through the skin. </item>
+        <item>Solution B: Adipoyl chloride 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cl</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mi>O</m:mi></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msubsup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="6pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:msubsup><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mi>O</m:mi></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cl</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  ital "Cl" -  \( C=O \)  -  \(  ital "CH" rSub { size 8{2} }  \)  rSub { size 8{ {} rSub { size 6{4} } } }  rSup { - {}}  size 12{ \( C=O \)  -  ital "Cl" \) }} {}</m:annotation></m:semantics></m:math>, 0.25 M: Weigh 4.58 g and dilute to 100 mL with cyclohexane.</item>
+        <item>Place 5 mL of solution A in a small beaker. Place 5 mL of solution B in a second beaker </item>
+        <item>Slowly add solution A to solution B by gently pouring it down the side of the beaker. Do not stir or mix. Solution A should form a separate layer on top of solution B.</item>
+        <item>A film will form at the interface of the two solutions.</item>
+        <item>Carefully hook the film with a bent paper clip and pull the film from the beaker.</item>
+        <item>Continue pulling until the solutions are exhausted.</item>
+        <item>If you want to keep the nylon, rinse it several times with water until it is free of all traces of amine.</item>
+      </list>
+      <para id="id11486763">B. Glyptal
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="6pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>TM</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 6{ {} rSup { ital "TM"} } {}</m:annotation></m:semantics></m:math> Resin (linear condensation copolymer): A small aluminum dish is used to mold the polymer. A coin, favorite small stone, or small flower may be placed on the bottom of the mold if you wish to make a souvenir of this experiment. This will harden several hours after your lab has finished.</para>
+      <para id="id12526254">CAUTION: Use care when heating any of the solutions – if the solutions come in contact with your skin, severe burns could result.</para>
+      <list id="id12590714" list-type="enumerated">
+        <item>In a large test tube, mix 4.0 mL glycerol, 0.5 g sodium acetate, and 10.0 g phthalic anhydride.</item>
+        <item>Carefully heat the mixture with a low flame, starting at the top of the contents and moving down toward the bottom as the mixture melts. Remember to point the test tube towards the back of the fume hood for safety reasons. CAUTION Excessive heating during step 2 can cause the hot contents to spurt out. If the hot liquid contacts the skin, severe burns result.</item>
+        <item>Continue heating until the melt appears to boil, and then continue heating for 5 minutes. Sufficient heating is required to produce a nonsticky product but excessive heating turns the product into a brittle amber material.</item>
+        <item>If desired, place a clean and dry coin into the aluminum dish used for a mold.</item>
+        <item>Carefully pour the hot liquid into the mold.</item>
+        <item>Allow the material to cool until the end of the laboratory period.</item>
+        <item>After the material has cooled, peel the mold from the cooled polymer and describe its appearance.</item>
+      </list>
+      <para id="id10670900">C. Cross-linked polyvinyl alcohol aka Slime!</para>
+      <para id="id11361876">CAUTION: The poly(vinyl alcohol) is a fine dust which you should avoid inhaling. For this reason, you will only use it in solution. </para>
+      <list id="id12507476" list-type="enumerated">
+        <item>Measure 50 mL of poly(vinyl alcohol) solution into a paper cup or small beaker and observe its properties. Vinyl alcohol does not exist. Poly(vinyl alcohol) is prepared by first forming poly(vinyl acetate) from vinyl acetate following by hydrolysis to the alcohol.</item>
+        <item>Measure 7-8 mL of sodium tetraborate solution into another cup or beaker and observe its properties. Add a few drops of food coloring at this step, if you wish.</item>
+        <item>Pour sodium tetraborate into the poly(vinyl alcohol) solution while stirring vigorously with a wooden stick. The borate forms a complex structure called tetraborate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:msubsup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="6pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{B rSub { size 8{4} } O rSub { size 8{5} }  \(  ital "OH" \)  rSub { size 8{ {} rSub { size 6{4} } } }  rSup {2 - {}} } {}</m:annotation></m:semantics></m:math> , that links the poly(vinyl alcohol) polymer strands together by hydrogen bonds.</item>
+        <item>Wearing safety gloves, examine the properties of the cross-linked polymer. See how far the polymer will flow from your hand. Is the flowing endothermic or exothermic?</item>
+      </list>
+      <para id="id10714285">D. Silicone Plastic aka Silly Putty</para>
+      <para id="id10005473">Silicone plastic, commonly called Silly Putty, can be successfully approximated with Elmer’s Glue instead of silicone oil. You may each make your own silly putty if you wish and if you want to keep it, bring a Ziploc bag – great finger exerciser, stress reliever, bouncy ball etc.</para>
+      <list id="id11220044" list-type="enumerated">
+        <item>Mix the food coloring with 30 mL of 50% Elmer’s Glue solution. </item>
+        <item>Add the 5 mL of 4% sodium tetraborate (Borax) solution and stir for 2 minutes in the cups provided. </item>
+        <item>Wearing your safety gloves, roll around the lump in your hands for two minutes, after which time it will cease to be sticky. </item>
+        <item>Examine the properties of this inorganic polymer.</item>
+        <item>If you wish to keep your silly putty, bring a Ziploc bag to lab.</item>
+      </list>
+    </section>
+  </content>
+</document>

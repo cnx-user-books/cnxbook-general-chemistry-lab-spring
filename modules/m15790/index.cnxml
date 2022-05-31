@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Amphoteric Aluminum</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d4e8bd7a-2cdf-4615-9330-370694f64f2e</md:uuid>
+</metadata>
+  <content>
+    <para id="id9235611">Properties of Aluminum and Its Compounds</para>
+    <section id="id-854014375644">
+      <title>Objectives</title>
+      <list list-type="bulleted" id="id10177803">
+        <item>To prepare common alum, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KAl</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KAl" \(  ital "SO" rSub { size 8{4} }  \)  rSub { size 8{2} }  "." "12"H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, from a discarded aluminum beverage can. </item>
+        <item>To perform qualitative analysis on alum. </item>
+        <item>To investigate the acid-base behavior of aluminum compounds. </item>
+      </list>
+      <para id="id10678296">Grading</para>
+      <para id="id9373347">You grade will be determined based on the following: </para>
+      <para id="id10253604">         Pre-lab (10%)</para>
+      <para id="id10605840">         Lab Report Form (80%)</para>
+      <para id="id9364127">         TA evaluation of lab procedure (10%)</para>
+      <para id="id10676231">Before coming to lab …..</para>
+      <para id="id9364095">         Read the lab instructions</para>
+      <para id="id10058470">         Print out the lab instructions and report form</para>
+      <list list-type="bulleted" id="id9997454">
+        <item>Complete the pre-lab, due at the beginning of the lab.  See page 616 in Brown, LeMay and Bursten for the definition of amphoteric behavior. </item>
+      </list>
+    </section>
+    <section id="id-177374222491">
+      <title>Introduction</title>
+      <para id="id10058514">Aluminum is the most abundant metal in the earth's surface (7.5% by mass). The abundance of aluminum, coupled with its attractive combination of physical and chemical properties, accounts for the fact that it is one of the principal industrial raw materials used by industrialized societies. Production of aluminum from raw materials is an energy intensive process.</para>
+      <para id="id10177668">Since the metal is not consumed rapidly by corrosion, the amount of scrap aluminum grows rapidly while the available supply of raw materials for the manufacture of aluminum decreases. The average predicted longevity of an aluminum can along the roadside is 100 years.</para>
+      <para id="id10177672">Environmental problems thus created are typical of those of several different metals. One obvious solution to the problem is to recycle the used fabricated aluminum into other useful metallic objects or into aluminum compounds. Aluminum metal can be recovered from scrap by melting the metal and separating it from solids and volatile impurities. This process uses a large amount of energy.  The energy requirement to prepare an aluminum can from recycling is only 5% of the energy required to produce the can from bauxite ore.</para>
+      <para id="id10675146">This experiment illustrates a chemical recovery process in which waste aluminum is converted chemically into an aluminum compound, hydrated potassium aluminum sulfate, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KAl</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KAl" \(  ital "SO" rSub { size 8{4} }  \)  rSub { size 8{2} }  "." "12"H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, or common alum. Although alum is an important industrial compound, the method of preparation in this experiment is not the way alum is obtained for use in industry. Nevertheless, this experiment will illustrate an interesting example of the reduction of environmental waste. "Alum" is a generic term that describes hydrated double salts of certain metals having the generalized formula, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>MM</m:mtext></m:mrow></m:mstyle><m:mi>'</m:mi><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "MM"' \(  ital "SO" rSub { size 8{4} }  \)  rSub { size 8{2} }  "." "12"H rSub { size 8{2} } O \] } {}</m:annotation></m:semantics></m:math>, in which M (univalent) is commonly 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Na" rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{4}   rSup { size 8{+{}} } } } {}</m:annotation></m:semantics></m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Rb</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Rb" rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> and M' (trivalent) is commonly 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Al</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Al" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Ga</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Ga" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Cr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Cr" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Mn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Mn" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Co</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Co" rSup { size 8{3+{}} } } {}</m:annotation></m:semantics></m:math>. True alums crystallize in well-defined octahedral shapes and many are beautifully colored, particularly those containing d-block transition metals. The ancient Egyptians, Greeks and Romans used alum as a mordant in dyeing cloth. A mordant contains metal ions that bind dyes to the fabric. Presently alum is used to harden photographic film, to prepare pickles, as a mordant, and for other purposes.</para>
+    </section>
+    <section id="id-748437600357">
+      <title>Experimental Procedure</title>
+      <para id="id9364394">Wear safety goggles. Wear gloves when using concentrated acid and base.</para>
+    </section>
+    <section id="id-421069419991">
+      <title>Part 1: Preparation of Alum/Quantative Analysis (Calculation of % Yield)</title>
+      <para id="id9329367">1.      Cut a 5cm x 5cm square piece of aluminum from a scrap aluminum can and sand the paint off using steel wool.  </para>
+      <para id="id10662651">2.      Cut this piece into smaller pieces (about 0.5 cm long) and weigh out ~1g.  Record the weight to 3 decimal places. </para>
+      <para id="id10694003">3.      Place the aluminum in a 400-mL beaker and add 50 mL of 4 M KOH.</para>
+      <para id="id10694014">4.      Place beaker on the heating mantle and heat gently. </para>
+      <para id="id10694024">CAUTION - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> GAS (VERY EXPLOSIVE) IS PRODUCED.ENSURE THAT YOU ONLY HEAT THE BOTTOM OF THE BEAKER AND DO NOT LET THE FLAMES GET NEAR THE TOP.</para>
+      <para id="id9833164">5.      When the bubbles have stopped, remove from the heat, i.e., hydrogen is no longer evolved.</para>
+      <para id="id9833174">6.      Vacuum filter the solution and save the filtrate, you may toss out the solid. (Ask your TA if you need instruction in performing a vacuum filtration.)</para>
+      <para id="id9772718">7.      Carefully rinse your graduated cylinder, pour out 25-30 mL of 9 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> and then add slowly to the filtrate. </para>
+      <para id="id10738778">CAUTION -
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} }  ital "SO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>IS A STRONG ACID AND DEHYDRATOR.  SEE TA IMMEDIATELY IF YOU SPILL ANY!</para>
+      <para id="id9369189">8.      Heat gently while stirring until the solution becomes clear. Boil the solution down to a volume of about 45 mL.</para>
+      <para id="id9780152">7.      While the solution is boiling, prepare an ice bath by filling a bowl half-way with ice and then adding water until the bowl is three-quarters full.</para>
+      <para id="id9780164">8.      After the "boiling off", let the beaker cool to room temperature and then place it in the ice bath. Crystals of alum should form. Allow to cool for 15 minutes.</para>
+      <para id="id10619258">9.      After 15 minutes, vacuum filter the product and wash with 10 mL of ethanol. </para>
+      <para id="id10619269">10.  Allow to dry for a few minutes. Dry completely in the microwave at less than 50% power in 10 sec intervals until the weight no longer changes.</para>
+      <para id="id9868648">11.  Calculate the percent yield and describe the appearance of the crystals.</para>
+    </section>
+    <section id="id-436177191775">
+      <title>Part 2: Qualitative Analysis of Alum</title>
+      <para id="id9868666">1.      Use a straw spatula to transfer a few of the alum crystals (about 5 mg) to a watch glass. Add 3 drops of water to the crystals. Stir gently until the crystals dissolve.</para>
+      <para id="id10896148">2.      Use a small piece of indicator paper to see whether the solution is acidic, basic, or neutral.</para>
+      <para id="id10896159">3.      Now add 1 drop of 0.5 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>BaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "BaCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> (barium chloride) to the solution. Record your observations.</para>
+      <para id="id9793484">4.      A really good test for the presence of potassium is a flame test. Using the hot grips, hold a stainless spatula in the flame of a Bunsen burner to volatilize impurities from the spatula.</para>
+      <para id="id9793496">5.      When one end of the spatula is red hot, remove it, and quickly touch it to a small cluster of crystals. Several should stick.</para>
+      <para id="id10691635">6.      Slowly bring the spatula (plus crystals) toward the flame and watch carefully. Hold the crystals in the flame for at least 5 seconds (until the solid glows). Record your observations.</para>
+      <para id="id10691648">7.      Remove the spatula and place on a non-asbestos mat.</para>
+    </section>
+    <section id="id-52202228779">
+      <title>Part 3: Acid-Base Properties of Aluminum Compounds</title>
+      <para id="id9342751">Clean 3 test-tubes and label them. </para>
+      <para id="id9342755">Tube 1:</para>
+      <para id="id9342759">Place 10 drops of 1M aluminum nitrate solution and 2 drops of 6.0 M sodium hydroxide solution, mix well and record your observations on your lab report Then add more sodium hydroxide solution to tube 1 until a reaction is observed (around 7 drops). Mix well. Record your observations.</para>
+      <para id="id9342768">Tube 2</para>
+      <para id="id9792149">Place 10 drops of 1M aluminum nitrate solution and 2 drops of 6.0 M sodium hydroxide solution, mix well and record your observations on your lab report Then add 4 mL of 6M HCl and record your observations.</para>
+      <para id="id9792157">Tube 3</para>
+      <para id="id9792161">Add 3 mL of 6M ammonium hydroxide, i.e aqueous ammonia to your alum and record your observations.</para>
+    </section>
+  </content>
+</document>

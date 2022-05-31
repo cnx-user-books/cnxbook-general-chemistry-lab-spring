@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Crystal Violet Kinetics</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>289ed8dc-abba-4cbe-a495-efaea2fc15cc</md:uuid>
+</metadata>
+  <content>
+    <section id="id-573305319647">
+      <title>Crystal Violet Kinetics</title>
+      <section id="id-674384344543">
+        <title>Objective</title>
+        <list list-type="bulleted" id="id10396060">
+          <item>To study the reaction rate of crystal violet with NaOH using the LabWorks Interface colorimeter.</item>
+          <item>To determine the reaction order with respect to each of the reactants.</item>
+          <item>To calculate the room temperature rate constant for the reaction.</item>
+        </list>
+      </section>
+      <section id="id-103161828832">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id4844604">
+          <item>Pre-Lab 10%</item>
+          <item>Lab Report Form 80%</item>
+          <item>TA Points 10%</item>
+        </list>
+      </section>
+      <section id="id-829311245375">
+        <title>Background Information</title>
+        <section id="id-583328910948">
+          <title>Reaction Chemistry</title>
+          <para id="id8126595">Chemical kinetics is the study of reaction rates. In this experiment, the kinetics of the reaction between crystal violet and NaOH will be studied. The MicroLab Interface colorimeter will be used to monitor the change in concentration of crystal violet as a function of time.  The reactant and product structures and the reaction stoichiometry are shown in Figure 1.</para>
+          <para id="id3882955">All of the reactants and products shown in Figure 1 are colorless except for crystal violet which has an intense violet color.  Thus, during the course of the reaction, the reaction mixture color becomes less and less intense, ultimately becoming colorless when all of the crystal violet has reacted with the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>.</para>
+          <figure id="id9430829">
+            <media id="idp585600" alt=""><image src="../../media/graphics1-5113.jpg" mime-type="image/jpeg" height="171" width="599"/></media>
+          </figure>
+        </section>
+        <section id="id-241533194338">
+          <title>Figure 1. Net ionic reaction between Crystal Violet and NaOH </title>
+          <para id="id8024363">The color that crystal violet exhibits is due to the extensive system of alternating single and double bonds, which extends over all three benzene rings and the central carbon atom.  This alternation of double and single bonding is termed conjugation, and molecules which have extensive conjugation are usually highly colored. The color is due to continuous movement of electrons between single and double bonds. When crystal violet reacts with a base 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  -  ital "OH" \) } {}</m:annotation></m:semantics></m:math>, the conjugation is disrupted and the color is lost. Note that in the reaction product, the three rings are no longer in conjugation with one another, and hence the material is colorless. This reaction has kinetics slow enough that the change in color can be observed over time as the molecules are being changed. In today’s experiment, you will trace the loss of conjugation in the crystal violet structure by using colorimetry.</para>
+        </section>
+        <section id="id-963148703419">
+          <title>Kinetic rate laws</title>
+          <para id="id10869232">The rate of the reaction of crystal violet with NaOH is given by the generalized rate expression</para>
+          <para id="id9995501"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Rate</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>k</m:mi></m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Rate"=k \[  ital "OH" rSup { size 8{ - {}} }  \]  rSup { size 8{x} }  \[  ital "CV" \]  rSup { size 8{y} } } {}</m:annotation></m:semantics></m:math>(1)</para>
+          <para id="id8789119">In Equation (1), k is the rate constant for the reaction, CV is an abbreviation for crystal violet, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>25</m:mtext></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>30</m:mtext></m:mrow></m:mstyle></m:msub><m:msubsup><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="6pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{"25"} } H rSub { size 8{"30"} } N rSub { size 8{ {} rSub { size 6{3} } } }  rSup {+{}} } {}</m:annotation></m:semantics></m:math>, x is the order of reaction with respect to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, and y is the order of reaction with respect to CV. The values of x and y will be determined experimentally. Possible values are 0, 1, or 2 (zeroeth order, first order or second order).</para>
+          <para id="id8483272">In the experiment you will perform, the [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>] will always be much greater than [CV]. Thus the change in [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>] has a negligible effect on the initial [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>]. For this reason, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "OH" rSup { size 8{ - {}} }  \]  rSup { size 8{x} } } {}</m:annotation></m:semantics></m:math> can be treated as a constant and Equation (1) can be rewritten</para>
+          <para id="id10549790"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Rate</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>k</m:mi></m:mrow><m:mi>'</m:mi><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Rate"=k' \[  ital "CV" \]  rSup { size 8{y} } } {}</m:annotation></m:semantics></m:math>(2)</para>
+          <para id="id11430280">where 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi>'</m:mi><m:mo stretchy="false">=</m:mo><m:mi>k</m:mi></m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k'=k \[  ital "OH" \]  rSup { size 8{x} } } {}</m:annotation></m:semantics></m:math>. k' is termed a pseudo rate constant.</para>
+          <para id="id11813787">The integrated form of the rate law depends on the order of reaction with respect to the concentration of CV. The integrated rate laws for y = 0, 1, and 2 are given in Equations 3 through 5.</para>
+          <para id="id11715288"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>k</m:mi></m:mrow></m:mrow><m:mi>'</m:mi><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } = - k't+ \[  ital "CV" \]  rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>(zero order)(3)</para>
+          <para id="id10893353"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>ln</m:mtext><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>k</m:mi></m:mrow></m:mrow><m:mi>'</m:mi><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>ln</m:mtext></m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"ln" \[  ital "CV" \]  rSub { size 8{t} } = - k't+"ln" \[  ital "CV" \]  rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>(first order)(4)</para>
+          <para id="id6559681"> 1  = k’t+ 1 (second order)(5)</para>
+          <para id="id11158540">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">[</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>CV</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:msub>
+                          <m:mo stretchy="false">]</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>t</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">[</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>CV</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:msub>
+                          <m:mo stretchy="false">]</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>o</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{o} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id12424634"/>
+          <para id="id12424638">In Equations 3 - 5, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math> is the concentration of crystal violet in the reaction mixture at time zero before any reaction occurs; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math> is the concentration at any time during the course of the reaction. Equations 3, 4b, and 5 are each an equation of a straight line. If a plot of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math> versus time is linear, y = 0 and the reaction is zero order in CV. Similarly, a linear plot of ln 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math> versus time indicates a first order reaction in CV, and a linear plot of 1 / 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math> versus time indicates second order behavior. In every case, the slope of the resulting straight line would be the pseudo rate constant, k'. All three of these plots will be made to determine the actual value of y and the value of k'.</para>
+          <para id="id10259191">In order to do the graphing just described, we will need to have data showing how the concentration of CV changes with time. This data will be obtained using the MicroLAB colorimeter at the 590 nm wavelength and the Kinetics program. The light from the LED will pass through the solution containing CV and NaOH and then fall on the system photocell. The photocell circuit will then produce a current in microamps (I) which is proportional to the light intensity striking the photocell surface. This current is divided by the current obtained with the blank, and the result is termed Transmittance.</para>
+          <para id="id12678342">Solutions of crystal violet obey Beer's Law. Thus, the relationship between the observed current and the concentration of CV is given by</para>
+          <para id="id12903484"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>log</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mi>ε</m:mi></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A rSub { size 8{t} } = - "log" \( I rSub { size 8{t} } /I rSub { size 8{o} }  \) =ε ital "bc"} {}</m:annotation></m:semantics></m:math>(6)</para>
+          <para id="id11980664">In Equation (6), 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math> is the reaction solution absorbance at any time t; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math> is the photocell current observed for pure water (the blank value); It is the current observed for the CV reaction mixture at time t, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ε</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation></m:semantics></m:math> is the molar absorptivity of crystal violet; b is the cell path length (2.54 cm for the MicroLAB colorimeter) vial; and c is the molar concentration of CV at time t, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math>. Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ε</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation></m:semantics></m:math> and b are constants at a given wavelength, it should be clear that the absorbance, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math>, is directly proportional to the concentration of CV at any time during the reaction and can be used in place of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CV</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  ital "CV" \]  rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math> in preparing the graphs described above.</para>
+        </section>
+        <section id="id-0744382921854">
+          <title>Experimental Procedure</title>
+          <para id="id10731243">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-986961914851">
+          <title>Part I. </title>
+          <para id="id11499915">Measurements</para>
+          <para id="id11499919">Open the MicroLAB program by selecting it, then click on the Kinetics Experiment Icon. Enter the experiment filename (CV then your name) when requested, then click OK. Data will come from the interface. Be sure the MicroLAB interface is connected to the computer and turned on. From that point follow the procedures listed below.</para>
+          <list list-type="enumerated" id="id10868582">
+            <item>Before beginning kinetic measurements, the current reading for pure 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>, will be obtained. Fill a clean, rinsed colorimeter vial about ¾ full with distilled 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math>, dry the outside of the cell thoroughly with a KimWipe being careful to remove any finger prints, insert the cell into the colorimeter and place the black cap over the cell. Note carefully and mark the positioning of the cell for future reference. </item>
+            <item>Click on the Blank button. The program will now measure 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math> for each of the 10 wavelengths, divide each by itself and multiply by 100 to get the 100 % transmittance value.</item>
+            <item>Empty the vial and dry it thoroughly inside and out.</item>
+            <item>Set the Time Interval to 5 seconds, and the Number of Points to 300.</item>
+            <item>Using the buret provided, dispense exactly 9.00 mL of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "50" times "10" rSup { size 8{ - 5} } } {}</m:annotation></m:semantics></m:math> M crystal violet solution into a clean, dry colorimeter vial</item>
+            <item>Using the calibrated plastic dropper provided, add 1.0 mL of 0.050 M NaOH to the CV solution as rapidly as possible without splashing. Cap the vial, rotate it twice to mix the CV/NaOH, place the cell in the colorimeter in exactly the same manner as was used for the blank and cap the colorimeter. All of the operations in this step should be completed as quickly as possible so that the first measurement will be made as close to the beginning of the reaction as possible.</item>
+            <item>As soon as the vial is in place and capped, press the Start button, the program will take readings at 5 second intervals for a period of 60 minutes and then automatically stop. If there is a need to stop data collection prior to the end of 60 minutes, click on the Stop button and the program will terminate. It 300 points is insufficient, increase the number of points.</item>
+            <item>When the reaction is completed, save the file with the name CV.kin.XM.DH, where CV.kin defines the type of data, XM indicates the NaOH concentration (0.10 or 0.05, etc), and DH is the student’s initials.</item>
+          </list>
+        </section>
+        <section id="id-18147154065">
+          <title>Data Analysis</title>
+          <list list-type="enumerated" id="id9947353">
+            <item>Retrieve your MicroLAB data file under the name you saved it. </item>
+          </list>
+          <para id="id9326069">Click on the Linear - Zero Order tab at the bottom of the graph. If the reaction you just did was zero order on the concentration of crystal violet, this will show a horizontal straight line. Print this screen as follows:</para>
+          <list list-type="bulleted" id="id9604310">
+            <item>Press Ctrl-Print Screen to capture the screen image.</item>
+            <item>Open Wordpad by clicking Start &gt; Programs &gt; Accessories &gt; Wordpad.</item>
+            <item>Press Ctrl-V to paste the screen image into Wordpad.</item>
+            <item>Press Ctrl-P to print the item.</item>
+            <item>Repeat step (2), clicking on the Logarithmic - First Order tab. A linear graph in this instance would indicate first order dependence on the concentration of crystal violet. Print this screen also.</item>
+            <item>Finally, click on the Inverse - Second Order tab to determine if the reaction is second order in crystal violet. Also print this screen</item>
+            <item>With the linear plot you have identified the value of y, i.e., the order of the reaction with respect to CV. Record the value of y in your lab book. The slope of the straight line at the top of the linear regression plot is the best value of k'. Record this value with proper units and to the correct number of significant figures in your lab book. Attach your graphs to your lab book.</item>
+          </list>
+        </section>
+        <section id="id-730351352571">
+          <title>Part II.</title>
+          <para id="id12763977">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-854944275551">
+          <title>Measurements</title>
+          <para id="id12042539">Recall that the k' just obtained is a pseudo rate constant, whose value depends upon the concentration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, i.e. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi>'</m:mi><m:mo stretchy="false">=</m:mo><m:mi>k</m:mi></m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">]</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k'=k \[  ital "OH" rSup { size 8{ - {}} }  \]  rSup { size 8{x} } } {}</m:annotation></m:semantics></m:math>. In this part of the experiment, the value of x will be determined as well as the value of the true rate constant, k.</para>
+          <para id="id10844513">In Part I of the experiment, 9.00 mL of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "50" times "10" rSup { size 8{ - 5} } } {}</m:annotation></m:semantics></m:math> M crystal violet and 1.0 mL of 0.050 M NaOH were combined to form the reaction mixture. A second kinetic run will now be made in exactly the same way except that the concentration of NaOH will be doubled to 0.10 M.</para>
+          <list list-type="enumerated" id="id6142746">
+            <item>Repeat each of the six experimental steps 4 through 8 using 1.0 mL of 0.10 M NaOH in place of 0.050 M NaOH.</item>
+          </list>
+        </section>
+        <section id="id-685413199222">
+          <title>Data Analysis</title>
+          <list list-type="enumerated" id="id11348893">
+            <item>Repeat data treatment steps 1 through 6 above, and again record the value of k' on your data sheet.</item>
+            <item>From the ratio of the two k' values to one another, determine the order of reaction with respect to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> (the value of x). Clearly indicate your reasoning in evaluating x.</item>
+          </list>
+          <para id="id12735908">Note: The value of x should be an integer. If your value is not an integer, it is probably due to experimental error (probably in measuring and adding the NaOH solutions). If necessary, round your value to the nearest integer.</para>
+          <list list-type="enumerated" id="id10683381">
+            <item>Calculate the value of the true rate constant k using each of the k' values. In the calculations, the concentrations of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> will have to be adjusted to account for the dilutions which occurred when the NaOH and crystal violet solutions were mixed. Finally, average the two k values obtained. Again, be sure to watch significant figures and use proper units.</item>
+            <item>Using the linear plot from your first kinetics experiment, calculate the value of the molar absorptivity, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ε</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation></m:semantics></m:math>, for crystal violet under these experimental conditions. Include units in your answer. The colorimeter vial is 2.54 cm thick. (Hint: The intercept of your linear plot is important.).</item>
+          </list>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

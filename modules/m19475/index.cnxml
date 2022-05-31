@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Practical Examples of the Gas Laws</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>87808a97-1b13-4f71-beca-0ea6ed05a9ad</md:uuid>
+</metadata>
+  <content>
+    <para id="id12926812">Practical Examples of the Gas Laws</para>
+    <para id="id18168778"> Objectives</para>
+    <list list-type="bulleted" id="id11480432">
+      <item>Learn and understand physical properties of gases and explain observations in terms of the kinetic molecular theory of gases.</item>
+      <item>Plot and calculate the root mean square speed of the Carvone molecules. (Comparison with speed in vacuum).</item>
+      <item>Estimate volume and volume change of a balloon when it goes from room temperature (RT) to liquid nitrogen temperature.</item>
+      <item>Observe and explain behavior of gas in: a soda can, a balloon in a flask, Cartesian diver, etc., when a change in pressure or temperature is applied. </item>
+    </list>
+    <section id="id17855444">
+      <title>Grading</title>
+      <para id="id19847375">You grade will be determined according to the following:</para>
+      <list list-type="bulleted" id="id4796999">
+        <item>Pre-lab (10%)</item>
+        <item>Lab Report Form (80%)</item>
+        <item>TA points (10%)</item>
+      </list>
+      <para id="id3960306">Introduction</para>
+      <para id="id17701701">Expanding and contracting balloons, imploding soda cans, exploding marshmallows are just some of the demonstrations that are often used to illustrate the empirical gas laws and the kinetic molecular theory of gases. In this experiment, you will be performing these and other ‘demonstrations’ and using your understanding of the physical properties of gases to explain your observations.</para>
+      <para id="id7870243">There will be two demonstrations laid out at each of the seven different stations around the room and you will go as a group, half the group working at each station (you don’t need to start with #2). If your group starts with, for example station 5, you should then follow the following order: 5, 6, 7, 8, 2, etc. Your group should spend no more than 15 minutes at each station, in some cases 5 minutes is sufficient. Perform the experiment by following the instructions placed at each station. Then discuss your observations with your group. For each of the activities, it is important to ask yourself what is going on; "how can our observations be explained using the kinetic molecular theory of gases?" Remember that for some demonstrations calculations may also be required. Be thorough and precise in your explanations.</para>
+      <para id="id19376055"> Important Safety Notes:</para>
+      <para id="id15730258">Remember to use tongs, hot grips as appropriate when dealing with hot liquids, vapors and containers. </para>
+      <para id="id17746787">Liquid nitrogen is extremely cold, with a boiling point of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>196</m:mtext></m:mrow><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "196"°} {}</m:annotation></m:semantics></m:math>C and if it comes into contact with skin can result in severe frostbite.</para>
+      <para id="id19787860">The vacuum dessicator should be regarded as a potential implosion hazard when evacuated. Handle it carefully.</para>
+      <para id="id18653111">When doing the egg experiment do not put the hot flask immediately in the water bath (let it for at least 3 minutes sitting on the bench) as it will crack. </para>
+      <para id="id20008502">Observe and record what happens in your laboratory report form and explain your observations in terms of the Kinetic Molecular Theory of Gases.</para>
+      <para id="id3361254">You are encouraged to discuss among yourselves possible explanations to your observations.</para>
+      <para id="id18544930">Experimental Procedure</para>
+      <para id="id4358812">Diffusion: </para>
+      <list list-type="bulleted" id="id5205926">
+        <item>The goal of this experiment is to measure the rate of diffusion of carvone, a major component of spearmint oil. We will do these trials altogether, with volunteers, at the end of the pre-lab lecture. You will all stand in a line, with the first person in the group holding the bottle of carvone and several paper towels. All four people should be 1 meter apart. You will need to know the distance each person is from the bottle of carvone. The fourth person should act as the timekeeper. </item>
+        <item>When the timekeeper gives the signal, the first person should place a few drops of carvone on the paper towels. Record the time that it takes for each person to smell the carvone. Seal the paper towel in a plastic bag when you are finished.</item>
+        <item>After the odor has dissipated, we will repeat the experiment twice with more volunteers.</item>
+        <item>Using Excel plot the data in distance traveled versus time. Obtain a least squares fit (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, R squared value) for this data and determine from it the rate of diffusion of carvone in meters per second. Create a graph for each trial. Calculate the average of the rates for the three trials. Calculate the root mean square speed of carvone molecules at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>25</m:mtext><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25"°} {}</m:annotation></m:semantics></m:math>C. Your TA will help you with this equation. Compare the result with the diffusion rate you measured. </item>
+        <item>If they are significantly different, offer an explanation. </item>
+        <item>Would the diffusion take place faster in a vacuum?</item>
+      </list>
+      <para id="id3800315">Note: The formula of carvone is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:msub><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>14</m:mtext></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{"10"} } H rSub { size 8{"14"} } O} {}</m:annotation></m:semantics></m:math>, MW=150.22 g/mol.</para>
+      <para id="id18775342">Since, PV = nRT</para>
+      <para id="id15622940">and nRT = (1/3)Nm
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>μ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. </para>
+      <para id="id17609136">Solving for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math> gives:</para>
+      <para id="id18171319"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>3</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>RT</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mi>M</m:mi></m:mrow></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3 ital "RT"/M} } {}</m:annotation></m:semantics></m:math>. </para>
+      <para id="id18824917">where M = mN/n or the molar mass in kg/mol, T is in k, and R is 8.3145 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kg</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">∗</m:mo><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">/</m:mo><m:msup><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">∗</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">∗</m:mo><m:mi>K</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" * m rSup { size 8{2} } /s rSup { size 8{2} }  *  ital "mol" * K} {}</m:annotation></m:semantics></m:math>. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math>, we are using is the root mean square speed, as it is the root of the sum of the squares of the individual velocities.</para>
+      <para id="id19176598">The plots can be prepared when you have finished the lab. </para>
+      <list list-type="enumerated" id="id18443023">
+        <item>Gas Laws in a Soda Can:</item>
+      </list>
+      <list list-type="enumerated" id="id3919157">
+        <item>Pour 15 mL of water into an aluminum soda can. Set the can on a hot plate and turn on to a high temperature setting. While the can water heats, fill a 1000-mL beaker with cold water (You may have a metal tin set out for this purpose). Continue heating the can until the water inside boils vigorously and until steam escapes from the mouth of the can for about 20 seconds.</item>
+        <item>Using the hot grips to grip the can near the bottom, quickly lift the can from the burner and invert it in the beaker of cold water so water covers the mouth of the can. </item>
+        <item>Describe what happens. </item>
+        <item>Explain why it happens. You may repeat this experiment using a second soda can if you wish. </item>
+        <item>Why is it necessary to invert the can in the water? What would happen if a rigid container were used?</item>
+        <item> Balloon in liquid nitrogen: </item>
+      </list>
+      <para id="id7355989">Review the safety notes above regarding the handling of liquid nitrogen.</para>
+      <para id="id16986331">1. Inflate a balloon and tie the end (several balloons may have already been inflated and tied). Using tongs, place the balloon in a Dewar flask containing liquid nitrogen. After the balloon stops changing size, remove it from the Dewar and allow it to warm to room temperature.</para>
+      <para id="id19902248">2. Observe and record the changes (you should be able to measure the radius and estimate volume). Estimate the size of the balloon in liters.</para>
+      <para id="id4183635">3. What is the pressure inside the balloon before it is placed in the liquid nitrogen? </para>
+      <para id="id19338928">4. What is the pressure inside the balloon after it is placed in the liquid nitrogen? </para>
+      <para id="id20425141">5. Use the ideal gas law to calculate the percent change in volume expected on going from room temperature to liquid nitrogen temperature. </para>
+      <para id="id14582898">6. Is the volume of the cold balloon consistent with what you calculated, or is it larger or smaller? </para>
+      <para id="id3465139">7. Suggest an explanation for your observation. Explain all of your observations in detail using the kinetic molecular theory of gases. </para>
+      <para id="id18381473">8. How does the liquid nitrogen cool the gas in the balloon?</para>
+      <list list-type="enumerated" id="id15050309">
+        <item> Kissell's tygon tube in liquid nitrogen: </item>
+      </list>
+      <para id="id20026420">Review the safety notes above regarding the handling of liquid nitrogen.  </para>
+      <list list-type="enumerated" id="id15620665">
+        <item>Place a 2 foot long tygon clear tube in a Dewar with liquid nitrogen. </item>
+        <item>Observe what happens and explain.</item>
+        <item>Balloon in a flask:</item>
+      </list>
+      <list list-type="enumerated" id="id4797003">
+        <item>Place about 5 mL of water in a 125-mL Erlenmeyer flask. Heat the flask on a hot plate until the water boils down to a volume of about 1 mL.</item>
+        <item>Meanwhile, inflate a balloon and then let the air out (this may not be necessary if balloons on table have been previously used). </item>
+        <item>Remove the flask from the heat, hold it with a towel, and immediately place the open end of the balloon over the mouth of the flask. </item>
+        <item>Observe the effect as the flask cools. </item>
+        <item>Can you get the balloon back out again? </item>
+        <item>If you can, How?</item>
+        <item> Cartesian diver: </item>
+      </list>
+      <para id="id18767360">The Cartesian diver is named for Rene Descartes (1596-1650), noted French scientist and philosopher. At this station, you will find a plastic soda bottle containing a medicine dropper, water, and air. Squeeze the bottle. </para>
+      <para id="id19337742">What happens? Why?</para>
+      <list list-type="enumerated" id="id17352161">
+        <item>The Egg:</item>
+      </list>
+      <list list-type="enumerated" id="id4339185">
+        <item>Lightly grease the inside of the neck of a 1 L Erlenmeyer flask with stopcock grease. Clamp the flask onto the stand. Place about 5 mL 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> in the flask and gently warm it with a Bunsen burner until the water vaporizes. Do not boil the water to dryness. </item>
+        <item>Meanwhile, prepare an ice water bath in an evaporating dish. While the flask is warm, seat the egg, narrow end down, in the mouth of the flask. Unclamp the flask, allow to cool slightly sitting on the bench and then immerse it in the ice water. (Read the safety notes above to avoid breaking the flask)</item>
+        <item>Can you get the egg back out again?</item>
+        <item>Assuming that the flask reaches the maximum vacuum (minimum pressure) possible before the egg is drawn into the flask, calculate the minimum pressure reached in the flask.</item>
+        <item>Expanding balloon:</item>
+      </list>
+      <list list-type="enumerated" id="id17495253">
+        <item>Partially inflate a balloon. Place the balloon inside the vacuum chamber and close the chamber with the black rubber circle and the top of the chamber carefully centered on the base (A partially inflated balloon may already be in the dessicator). </item>
+        <item>Close the needle valve (at the bottom of the black rubber tubing) by turning it clockwise. Turn the stopcock to the up position to connect the chamber to the vacuum pump. </item>
+        <item>What happens? Explain? To open the chamber, turn the stopcock to the left position and open the needle valve. </item>
+      </list>
+      <para id="id3354418">Moore's bonus 2 points:  </para>
+      <para id="id17780533">1pt to name a real life example of the physical properties of gases at work</para>
+      <para id="id3516623">1pt for a good explanation of how and why it works according to what you have learned in the lab. </para>
+      <para id="id17651316"> </para>
+      <para id="id17680441"> </para>
+      <para id="id15681733"> </para>
+      <para id="id15968006"> </para>
+      <para id="id17789161"> </para>
+    </section>
+  </content>
+</document>

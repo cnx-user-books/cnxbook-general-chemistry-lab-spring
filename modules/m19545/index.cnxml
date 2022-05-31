@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Colligative Properties and Ice Cream</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4def9744-f125-4cd9-a0b7-b6a1c8777a0d</md:uuid>
+</metadata>
+  <content>
+    <para id="id8664375">Colligative Properties and Ice Cream</para>
+    <para id="id11137398">Objectives</para>
+    <list list-type="bulleted" id="id11137402">
+      <item>To record facile and fast data collection from the computer interface, ubiquitous in industry and, in this case, to calculate the molecular weight of the unknown solute using freezing point depression</item>
+      <item>To learn the definition of molality and the importance of molality in colligative property calculations</item>
+      <item>To learn to calculate the molality of a solution</item>
+      <item>To measure the freezing point depression caused when adding antifreeze to tert-butanol</item>
+      <item>To calculate the molecular weight of the unknown solute using freezing point depression</item>
+    </list>
+    <section id="id9635910">
+      <title>Grading</title>
+      <para id="id11121904">You will be determined according to the following:</para>
+      <list list-type="bulleted" id="id10991789">
+        <item>Pre-lab (10%)</item>
+        <item>Lab Report Form (80%) – including temperature plots </item>
+        <item>TA evaluation of lab procedure (10%)</item>
+      </list>
+      <para id="id6863561">Introduction</para>
+      <para id="id8085651">Although colligative properties involve solutions, they do not depend on the interactions between the solvent and the solute molecules but rather on the number of solute particles dissolved in solution. Colligative properties include vapor pressure lowering, osmotic pressure, boiling point elevation, and freezing point depression. In this experiment you will explore freezing point depression using a solution of ethylene glycol in tert-butanol. You will then use freezing point depression to calculate the molar mass of an unknown solute that is dissolved in tert-butanol.</para>
+      <para id="id11190172">Ethylene glycol, (CH2OH)2 the major component of antifreeze, is a large organic molecule that dissolves easily in water. The structure of ethylene glycol is shown in Figure 1.</para>
+      <figure id="id11819180">
+        <media id="idm1535680" alt=""><image src="../../media/graphics1-a08c.png" mime-type="image/png" height="53" width="156"/></media>
+      </figure>
+      <para id="id7922990">Antifreeze keeps the water in a car's radiator from freezing because the ethylene glycol molecules get in the way when water tries to crystallize into ice. It is more difficult for the ice crystals to form, due to the fact that the water must be at a lower kinetic energy. Therefore, the water freezes at a lower temperature than if the glycol molecules were not present. The effect of the ethylene glycol molecules present in a solutioncan be quantified by the following equation:</para>
+      <para id="id5238040">ΔT = iKfm     Equation 1</para>
+      <para id="id3863177">where Δ T = Tpure - Tsolution, the difference between the freezing temperature of the pure solute and the freezing temperature of the solution. Kf is the freezing point depression constant of the solvent, having units of °C/m, and m is concentration of the solution using units of molality. This equation reflects the fact that a more concentrated solution results in a greater change in freezing temperature.</para>
+      <para id="id11809247">Most of the previous work that we have done with solutions probably has involved units of molarity, or moles per liter of solution. Freezing point depression calculations (as well as those for boiling point elevation) use molality, or moles of solute per kilogram of solvent. By definition, a freezing point depression or boiling point elevation involves a change in temperature. When the temperature of a solution changes, its volume also changes. Since molarity depends on the volume of the solution, a change in temperature will change the solution's molarity. Molality depends on the mass of the solvent, and this does not change with temperature.</para>
+      <para id="id7918516">The solvent we will use in this experiment is tert-butanol (IUPAC name: 2-Methyl-2-propanol) also called tert-butyl alcohol. It has a characteristic camphor type smell and is used in paint removers, to boost octane in gasoline and in perfumes. Its structure is given in Figure 2.</para>
+      <figure id="id10510188">
+        <media id="idm10155664" alt=""><image src="../../media/graphics2-9d6e.png" mime-type="image/png" height="136" width="198"/></media>
+      </figure>
+      <para id="id10349441">In this experiment we will measure the freezing temperature of pure tert-butanol, then measure the freezing point of a solution containing 3-5 grams of ethylene glycol added to tert-butanol. The difference in freezing temperatures for the two solutions gives the Δ T in Equation 1. Since the purpose of this experiment is to find the molecular weight of the solute, Equation 1 can be rewritten to include molecular weight of the solute:</para>
+      <figure id="id8588710">
+        <media id="idm6192736" alt=""><image src="../../media/graphics3-9b10.jpg" mime-type="image/jpeg" height="138" width="600"/></media>
+      </figure>
+      <para id="id7324874">For this experiment, use a Kf for tert-butanol of 8.37°C/m.</para>
+      <para id="id6720848">The only unknown in equation 2 is the molar mass of the solute. If you algebraically rearrange Equation 2, you can then solve for molar mass. This algebraic manipulation is left as an exercise for you to complete.</para>
+      <para id="id7019153">SAFETY PRECAUTIONS: Ethylene glycol and tert-butanol are safe if handled properly, but are mildly poisonous if swallowed. These chemicals can also cause allergic reactions with skin contact. Wear plastic gloves when pouring and measuring these chemicals. If you spill any on your hands, wash immediately with soap and water. Be sure to wear safety glasses at all times during this experiment.</para>
+      <para id="id10812212">Experimental Procedure</para>
+      <para id="id10812216">Part 1: Freezing point of tert-butanol</para>
+      <list list-type="enumerated" id="id11805010">
+        <item>Open the MicroLab Program by clicking on the shortcut to MicroLab.exe tab on the desktop.</item>
+        <item>On the “Choose an Experiment Type” tab, enter a name for your experiment, and then double click on the MicroLab Experiment icon.</item>
+        <item>Click “Add Sensor”, choose sensor = Temperature (thermistor).</item>
+        <item>To choose an input, click on the red box that corresponds to the port which the thermistor is connected.</item>
+        <item>Choose label = Thermistor, sensor units = ° C, click next.</item>
+        <item>Click “Perform New Calibration”.</item>
+        <item>Click “Add Calibration Point” and place the thermistor and a thermometer in an ice water bath. Wait until the temperature is constant, then read the temperature on the thermometer and enter that value into the “Actual Value” box in MicroLab and hit “ok”.</item>
+        <item>Again, click “Add Calibration Point” and place the thermistor and a thermometer in a warm water bath. Wait until the temperature is constant, then read the temperature on the thermometer and enter that value into the “Actual Value” box in MicroLab and hit “ok”.</item>
+        <item>Under Curve Fit Choices, click on “First order (linear)” and then “Accept and Save this Calibration”, when prompted to enter units, enter as “deg C”. Save as your name-experiment data.</item>
+        <item>Click “Add Sensor”, choose sensor = Time</item>
+        <item>Choose an input, click on the red box that corresponds any of the timers.</item>
+        <item>Label = Time 1, click next, click finish.</item>
+        <item>Left click on thermistor and drag to: the Y-axis over “data source two”, column B on the spreadsheet, and the digital display window.</item>
+        <item>Left click on time and drag to: the X-axis over “data source one”, column A on the spreadsheet, and the digital display window.</item>
+        <item>When ready to obtain data, click start.</item>
+        <item>Take a clean, dry 10cm test tube, and fill it half-way with tert-butanol, dispensed by your TA. </item>
+      </list>
+      <para id="id10349792">NOTE: The tert-butanol must be distributed by your TA to avoid impurities that will cause tremendous errors in the experiment.  You will need a very clean and very dry test tube for each of your experiment runs. If any impurities (especially water) mix with the tert-butanol, your data will be severely affected.</para>
+      <para id="id9461185">ANOTHER NOTE: Make sure that your solution in your test tube is below the level of the water in the water bath</para>
+      <list list-type="enumerated" id="id8062853">
+        <item>Warm the test tube to 30-35°C by placing it in a warm water bath. Start your data acquisition program, and place the test tube in an ice/water bath. You must constantly stir the tert-butanol to prevent supercooling.</item>
+        <item>The temperature of the tert-butanol should steadily drop, then level off, as the liquid freezes. When the tert-butanol is completely solid and the temperature starts decreasing again, you may stop your experiment. This will be the freezing temperature you use as Tpure when you calculate Δ T. Record this value in your data sheet. If your cooling curve does not flatten out very well and it is difficult to determine the freezing temperature, warm your sample with the hot water bath, and measure the freezing point again. </item>
+      </list>
+      <para id="id9480960">Note: If you do not get an acceptable curve (your TA can verify if it’s acceptable) on your second try, then you should ask for a new sample of tert-butanol.  The rest of your results for this lab depend on this measurement being accurate.</para>
+      <para id="id8651277">Part 2: Freezing point depression</para>
+      <list list-type="enumerated" id="id10729871">
+        <item>After finding the freezing temperature of pure tert-butanol you will make a solution of tert-butanol and antifreeze. Set your test tube inside a 50 or 100 mL beaker and then place the beaker on the balance to weigh your sample. </item>
+        <item>First, weigh only the empty test tube and record this value in your data sheet. </item>
+        <item>Fill the test tube half full of tert-butanol (again from your TA), weigh again, and record this value. </item>
+        <item>Finally, add a few drops of antifreeze (3 or 4 drops is sufficient), weigh the beaker/test tube combination a third time, and record this value. Use the same balance for all three weighings. Use subtraction to find the masses of the tert-butanol and the added antifreeze. It is not critical how many drops you add, but the mass that you measure is the important value.</item>
+        <item>Find the freezing temperature for your solution in the same way you found the freezing temperature for pure tert-butanol. The flat portion of your temperature curve will be smaller and more difficult to see for your mixed solution than for the pure tert-butanol. If you are running a live graph in your program, you should be able to tell where the freezing point of your solution occurs. As before, you may re-warm your solution and run it again if your cooling curve does not show a clear freezing point. If time permits, you may want to perform more than one run on each solution to confirm your freezing temperatures.</item>
+        <item>Subtract the freezing temperature your solution from the freezing temperature of pure tert-butanol. Record this Δ T value in your data sheet.</item>
+        <item>Use the information recorded in your data sheet to calculate the molar mass of ethylene glycol. Calculate the percent error for your experimentally determined molar mass. See your TA if you are unsure how to make this calculation.</item>
+        <item>Repeat Steps 1 through 5 for the unknown solutes. After calculating the molar mass of the unknowns, identify them using the following information:</item>
+      </list>
+      <table id="id10347316" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Compound</entry>
+              <entry>Molar Mass (g/mol)</entry>
+            </row>
+            <row>
+              <entry>Acetone</entry>
+              <entry>58.08</entry>
+            </row>
+            <row>
+              <entry>Ethyl Acetate</entry>
+              <entry>88.10</entry>
+            </row>
+            <row>
+              <entry>Water</entry>
+              <entry>18.02</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8717565"> Part 3: Chemistry of Life: Ice Cream</para>
+      <para id="id11336370">As we found above, adding a solute to a solvent lowers the freezing point of that solvent.  This occurs because as a substance freezes, a crystal is formed, but if a solute is added to the solvent more kinetic energy must be removed from the solvent in order to freeze, since it’s harder for the solvent molecules to form the regular pattern of the crystal.  Therefore, the more solute molecules you add, the lower the freezing point becomes.  We can use this to our advantage to lower the freezing point of water by enough to freeze ice cream, since ice cream is mostly water.  </para>
+      <para id="id8787904">This is a recipe that you could use at home:</para>
+      <para id="id11815276">Put 59.15 ml (¼ cup) of sugar, 118.29 ml (½ cup) of milk, 118.29 ml (½ cup) of whipping cream, and 1.23ml (¼ teaspoon) vanilla (4-hydroxy-3-methoxybenzaldehyde) into a one-quart Ziploc ™ bag.  Seal the bag and mix well by carefully shaking.</para>
+      <para id="id11815280">Put this one-quart Ziploc ™ bag into a one-gallon Ziploc ™ bag that has 2 cups of ice..</para>
+      <list list-type="enumerated" id="id9010234">
+        <item>However, we are going to cheat by using 6 packets of Junket ice cream mix + 7 ½ cups of whole milk + 4 ½ cups of whipping cream in a one galloon jug.</item>
+        <item>Measure and record the temperature of the ice with your thermometer in the one-gallon Ziploc ™ bag .</item>
+        <item>Weigh and pour 177.44 ml (¾ cup) of sodium chloride into the gallon bag.</item>
+        <item>Place the smaller bag inside the larger bag and seal the large bag securely.</item>
+        <item>Holding the large bag by the zipper seal, carefully shake the bag back and forth.  </item>
+      </list>
+      <para id="id10391186">NOTE: Do not touch the part of the bag with the ice as it could cause tissue damage.</para>
+      <list list-type="enumerated" id="id11081616">
+        <item>Continue until your ice cream is solid, approximately 10 – 15 min.</item>
+        <item>Measure and record the temperature of the salt/ice mixture.</item>
+        <item>Remove the frozen ice cream and place into a Styrofoam cup and enjoy!</item>
+      </list>
+    </section>
+  </content>
+</document>
